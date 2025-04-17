@@ -1,0 +1,1641 @@
+match_id,date,venue,player,team,runs_scored,balls_faced,fours,sixes,strike_rate,wickets_taken,runs_conceded,balls_bowled,no_dismissal,economy
+1,22-Mar-24,Chennai,Anuj Rawat,RCB,48,25,4,3,192.0,0,0,0,1,0.0
+1,22-Mar-24,Chennai,Karthik,RCB,38,26,3,2,146.15,0,0,0,0,0.0
+1,22-Mar-24,Chennai,Yash Dayal,RCB,0,0,0,0,0.0,1,28,18,0,9.33
+1,22-Mar-24,Chennai,Jadeja,CSK,25,17,0,1,147.06,0,21,24,0,5.25
+1,22-Mar-24,Chennai,Mayank Dagar,RCB,0,0,0,0,0.0,0,6,12,0,3.0
+1,22-Mar-24,Chennai,Tushar Deshpande,CSK,0,0,0,0,0.0,0,47,24,0,11.75
+1,22-Mar-24,Chennai,Rajat Patidar,RCB,0,3,0,0,0.0,0,0,0,1,0.0
+1,22-Mar-24,Chennai,Karn Sharma,RCB,0,0,0,0,0.0,1,24,12,0,12.0
+1,22-Mar-24,Chennai,Gaikwad,CSK,15,15,3,0,100.0,0,0,0,1,0.0
+1,22-Mar-24,Chennai,Shivam Dube,CSK,34,28,4,1,121.43,0,0,0,0,0.0
+1,22-Mar-24,Chennai,Ravindra,CSK,37,15,3,3,246.67,0,0,0,1,0.0
+1,22-Mar-24,Chennai,Green,RCB,18,22,1,0,81.82,2,27,18,1,9.0
+1,22-Mar-24,Chennai,Maxwell,RCB,0,1,0,0,0.0,0,7,6,1,7.0
+1,22-Mar-24,Chennai,Theekshana,CSK,0,0,0,0,0.0,0,36,24,0,9.0
+1,22-Mar-24,Chennai,Siraj,RCB,0,0,0,0,0.0,0,38,24,0,9.5
+1,22-Mar-24,Chennai,du Plessis,RCB,35,23,8,0,152.17,0,0,0,1,0.0
+1,22-Mar-24,Chennai,Kohli,RCB,21,20,0,1,105.0,0,0,0,1,0.0
+1,22-Mar-24,Chennai,Chahar,CSK,0,0,0,0,0.0,1,37,24,0,9.25
+1,22-Mar-24,Chennai,Mitchell,CSK,22,18,0,2,122.22,0,0,0,1,0.0
+1,22-Mar-24,Chennai,Alzarri Joseph,RCB,0,0,0,0,0.0,0,38,22,0,10.36
+1,22-Mar-24,Chennai,Rahane,CSK,27,19,0,2,142.11,0,0,0,1,0.0
+1,22-Mar-24,Chennai,Mustafizur,CSK,0,0,0,0,0.0,4,29,24,0,7.25
+2,23-Mar-24,Chandigarh,Harpreet Brar,PBKS,2,2,0,0,100.0,1,14,18,0,4.67
+2,23-Mar-24,Chandigarh,Mitchell Marsh,DC,20,12,2,2,166.67,0,52,24,1,13.0
+2,23-Mar-24,Chandigarh,Harshal Patel,PBKS,0,0,0,0,0.0,2,47,24,0,11.75
+2,23-Mar-24,Chandigarh,Prabhsimran,PBKS,26,17,5,0,152.94,0,0,0,1,0.0
+2,23-Mar-24,Chandigarh,Jitesh Sharma,PBKS,9,9,1,0,100.0,0,0,0,1,0.0
+2,23-Mar-24,Chandigarh,Shashank Singh,PBKS,0,1,0,0,0.0,0,0,0,1,0.0
+2,23-Mar-24,Chandigarh,Sam Curran,PBKS,63,47,6,1,134.04,0,10,6,1,10.0
+2,23-Mar-24,Chandigarh,Tristan Stubbs,DC,5,8,0,0,62.5,0,0,0,1,0.0
+2,23-Mar-24,Chandigarh,Rahul Chahar,PBKS,0,0,0,0,0.0,1,33,24,0,8.25
+2,23-Mar-24,Chandigarh,Ishant,DC,0,0,0,0,0.0,1,15,12,0,7.5
+2,23-Mar-24,Chandigarh,Shai Hope,DC,33,25,2,2,132.0,0,0,0,1,0.0
+2,23-Mar-24,Chandigarh,Bhui,DC,3,7,0,0,42.86,0,0,0,1,0.0
+2,23-Mar-24,Chandigarh,Axar,DC,21,13,2,1,161.54,0,25,24,1,6.25
+2,23-Mar-24,Chandigarh,Arshdeep Singh,PBKS,0,0,0,0,0.0,2,28,24,0,7.0
+2,23-Mar-24,Chandigarh,Rabada,PBKS,0,0,0,0,0.0,1,36,24,0,9.0
+2,23-Mar-24,Chandigarh,Bairstow,PBKS,9,3,2,0,300.0,0,0,0,1,0.0
+2,23-Mar-24,Chandigarh,Warner,DC,29,21,3,2,138.1,0,0,0,1,0.0
+2,23-Mar-24,Chandigarh,Livingstone,PBKS,38,21,2,3,180.95,0,0,0,0,0.0
+2,23-Mar-24,Chandigarh,Abishek Porel,DC,32,10,4,2,320.0,0,0,0,0,0.0
+2,23-Mar-24,Chandigarh,Sumit Kumar,DC,2,9,0,0,22.22,0,18,8,1,13.5
+2,23-Mar-24,Chandigarh,Kuldeep Yadav,DC,1,2,0,0,50.0,2,20,24,1,5.0
+2,23-Mar-24,Chandigarh,Dhawan,PBKS,22,16,4,0,137.5,0,0,0,1,0.0
+2,23-Mar-24,Chandigarh,Khaleel Ahmed,DC,0,0,0,0,0.0,2,43,24,0,10.75
+2,23-Mar-24,Chandigarh,Pant,DC,18,13,2,0,138.46,0,0,0,1,0.0
+3,23-Mar-24,Kolkata,Russell,KKR,64,24,3,7,266.67,2,25,12,0,12.5
+3,23-Mar-24,Kolkata,Shreyas Iyer,KKR,0,2,0,0,0.0,0,0,0,1,0.0
+3,23-Mar-24,Kolkata,Harshit Rana,KKR,0,0,0,0,0.0,3,33,24,0,8.25
+3,23-Mar-24,Kolkata,Rinku Singh,KKR,23,15,3,0,153.33,0,0,0,1,0.0
+3,23-Mar-24,Kolkata,Nitish Rana,KKR,9,11,1,0,81.82,0,0,0,1,0.0
+3,23-Mar-24,Kolkata,Narine,KKR,2,4,0,0,50.0,1,19,24,1,4.75
+3,23-Mar-24,Kolkata,Bhuvneshwar,SRH,0,0,0,0,0.0,0,51,24,0,12.75
+3,23-Mar-24,Kolkata,Shahbaz Ahmed,SRH,16,5,1,2,320.0,0,14,6,1,14.0
+3,23-Mar-24,Kolkata,T Natarajan,SRH,0,0,0,0,0.0,3,31,24,0,7.75
+3,23-Mar-24,Kolkata,Venkatesh Iyer,KKR,7,5,1,0,140.0,0,0,0,1,0.0
+3,23-Mar-24,Kolkata,Ramandeep Singh,KKR,35,16,1,4,218.75,0,0,0,1,0.0
+3,23-Mar-24,Kolkata,Klaasen,SRH,63,29,0,8,217.24,0,0,0,1,0.0
+3,23-Mar-24,Kolkata,Chakaravarthy,KKR,0,0,0,0,0.0,1,55,24,0,13.75
+3,23-Mar-24,Kolkata,Suyash Sharma,KKR,0,0,0,0,0.0,0,18,12,0,9.0
+3,23-Mar-24,Kolkata,Marco Jansen,SRH,1,1,0,0,100.0,0,40,18,0,13.33
+3,23-Mar-24,Kolkata,Cummins,SRH,0,1,0,0,0.0,1,32,24,0,8.0
+3,23-Mar-24,Kolkata,Mayank,SRH,32,21,4,1,152.38,0,0,0,1,0.0
+3,23-Mar-24,Kolkata,Markram,SRH,18,13,2,0,138.46,0,0,0,1,0.0
+3,23-Mar-24,Kolkata,Philip Salt,KKR,54,40,3,3,135.0,0,0,0,1,0.0
+3,23-Mar-24,Kolkata, ,SRH,0,0,0,0,0.0,0,0,0,0,0.0
+3,23-Mar-24,Kolkata,Tripathi,SRH,20,20,0,1,100.0,0,0,0,1,0.0
+3,23-Mar-24,Kolkata,Markande,SRH,0,0,0,0,0.0,2,39,24,0,9.75
+3,23-Mar-24,Kolkata,Starc,KKR,6,3,1,0,200.0,0,53,24,0,13.25
+3,23-Mar-24,Kolkata,Abhishek Sharma,SRH,32,19,4,2,168.42,0,0,0,1,0.0
+3,23-Mar-24,Kolkata,Abdul Samad,SRH,15,11,1,1,136.36,0,0,0,1,0.0
+4,24-Mar-24,Jaipur,Sandeep Sharma,RR,0,0,0,0,0.0,1,22,18,0,7.33
+4,24-Mar-24,Jaipur,Riyan Parag,RR,43,29,1,3,148.28,0,0,0,1,0.0
+4,24-Mar-24,Jaipur,Buttler,RR,11,9,2,0,122.22,0,0,0,1,0.0
+4,24-Mar-24,Jaipur,Ayush Badoni,LSG,1,5,0,0,20.0,0,6,6,1,6.0
+4,24-Mar-24,Jaipur,Mohsin Khan,LSG,0,0,0,0,0.0,1,45,24,0,11.25
+4,24-Mar-24,Jaipur,Padikkal,LSG,0,3,0,0,0.0,0,0,0,1,0.0
+4,24-Mar-24,Jaipur,Ashwin,RR,0,0,0,0,0.0,1,35,24,0,8.75
+4,24-Mar-24,Jaipur,Naveen-ul-Haq,LSG,0,0,0,0,0.0,2,40,24,0,10.0
+4,24-Mar-24,Jaipur,Yash Thakur,LSG,0,0,0,0,0.0,0,43,18,0,14.33
+4,24-Mar-24,Jaipur,Boult,RR,0,0,0,0,0.0,2,35,24,0,8.75
+4,24-Mar-24,Jaipur,Ravi Bishnoi,LSG,0,0,0,0,0.0,1,38,24,0,9.5
+4,24-Mar-24,Jaipur,Avesh Khan,RR,0,0,0,0,0.0,0,21,18,0,7.0
+4,24-Mar-24,Jaipur,Pooran,LSG,64,41,4,4,156.1,0,0,0,0,0.0
+4,24-Mar-24,Jaipur,Rahul,LSG,58,44,4,2,131.82,0,0,0,1,0.0
+4,24-Mar-24,Jaipur,Jaiswal,RR,24,12,3,1,200.0,0,0,0,1,0.0
+4,24-Mar-24,Jaipur,Dhruv Jurel,RR,20,12,1,1,166.67,0,0,0,0,0.0
+4,24-Mar-24,Jaipur,Stoinis,LSG,3,4,0,0,75.0,0,0,0,1,0.0
+4,24-Mar-24,Jaipur,Hooda,LSG,26,13,2,2,200.0,0,0,0,1,0.0
+4,24-Mar-24,Jaipur,de Kock,LSG,4,5,1,0,80.0,0,0,0,1,0.0
+4,24-Mar-24,Jaipur,Samson,RR,82,51,3,6,160.78,0,0,0,0,0.0
+4,24-Mar-24,Jaipur,Nandre Burger,RR,0,0,0,0,0.0,1,30,18,0,10.0
+4,24-Mar-24,Jaipur,Hetmyer,RR,5,7,0,0,71.43,0,0,0,1,0.0
+4,24-Mar-24,Jaipur,Chahal,RR,0,0,0,0,0.0,1,25,18,0,8.33
+4,24-Mar-24,Jaipur,Krunal Pandya,LSG,3,5,0,0,60.0,0,19,24,0,4.75
+5,24-Mar-24,Ahmedabad,Naman Dhir,MI,20,10,3,1,200.0,0,13,6,1,13.0
+5,24-Mar-24,Ahmedabad,Hardik Pandya,MI,11,4,1,1,275.0,0,30,18,1,10.0
+5,24-Mar-24,Ahmedabad,Ishan Kishan,MI,0,4,0,0,0.0,0,0,0,1,0.0
+5,24-Mar-24,Ahmedabad,Tilak Varma,MI,25,19,1,1,131.58,0,0,0,1,0.0
+5,24-Mar-24,Ahmedabad,Sai Kishore,GT,0,0,0,0,0.0,1,24,24,0,6.0
+5,24-Mar-24,Ahmedabad,Miller,GT,12,11,1,0,109.09,0,0,0,1,0.0
+5,24-Mar-24,Ahmedabad,Rahul Tewatia,GT,22,14,2,1,157.14,0,0,0,1,0.0
+5,24-Mar-24,Ahmedabad,Bumrah,MI,1,1,0,0,100.0,3,14,24,0,3.5
+5,24-Mar-24,Ahmedabad,Spencer Johnson,GT,0,0,0,0,0.0,2,25,12,0,12.5
+5,24-Mar-24,Ahmedabad,Shams Mulani,MI,1,1,0,0,100.0,0,24,18,0,8.0
+5,24-Mar-24,Ahmedabad,Shankar,GT,6,5,0,0,120.0,0,0,0,0,0.0
+5,24-Mar-24,Ahmedabad,Saha,GT,19,15,4,0,126.67,0,0,0,1,0.0
+5,24-Mar-24,Ahmedabad,Chawla,MI,0,1,0,0,0.0,1,31,18,1,10.33
+5,24-Mar-24,Ahmedabad,Wood,MI,0,0,0,0,0.0,0,25,12,0,12.5
+5,24-Mar-24,Ahmedabad,Brevis,MI,46,38,2,3,121.05,0,0,0,1,0.0
+5,24-Mar-24,Ahmedabad,Sai Sudharsan,GT,45,39,3,1,115.38,0,0,0,1,0.0
+5,24-Mar-24,Ahmedabad,Tim David,MI,11,10,1,0,110.0,0,0,0,1,0.0
+5,24-Mar-24,Ahmedabad,Rashid Khan,GT,4,3,0,0,133.33,0,23,24,0,5.75
+5,24-Mar-24,Ahmedabad,Gerald Coetzee,MI,1,3,0,0,33.33,2,27,24,1,6.75
+5,24-Mar-24,Ahmedabad,Shubman Gill,GT,31,22,3,1,140.91,0,0,0,1,0.0
+5,24-Mar-24,Ahmedabad,Rohit,MI,43,29,7,1,148.28,0,0,0,1,0.0
+5,24-Mar-24,Ahmedabad,Azmatullah,GT,17,11,1,1,154.55,2,27,18,1,9.0
+5,24-Mar-24,Ahmedabad,Mohit Sharma,GT,0,0,0,0,0.0,2,32,24,0,8.0
+5,24-Mar-24,Ahmedabad,Umesh Yadav,GT,0,0,0,0,0.0,2,31,18,0,10.33
+6,25-Mar-24,Bengaluru,Harpreet Brar,PBKS,2,2,0,0,100.0,2,13,24,0,3.25
+6,25-Mar-24,Bengaluru,Anuj Rawat,RCB,11,14,1,0,78.57,0,0,0,1,0.0
+6,25-Mar-24,Bengaluru,Karthik,RCB,28,10,3,2,280.0,0,0,0,0,0.0
+6,25-Mar-24,Bengaluru,Prabhsimran,PBKS,25,17,2,2,147.06,0,0,0,1,0.0
+6,25-Mar-24,Bengaluru,Jitesh Sharma,PBKS,27,20,1,2,135.0,0,0,0,1,0.0
+6,25-Mar-24,Bengaluru,Shashank Singh,PBKS,21,8,1,2,262.5,0,0,0,0,0.0
+6,25-Mar-24,Bengaluru,Sam Curran,PBKS,23,17,3,0,135.29,1,30,18,1,10.0
+6,25-Mar-24,Bengaluru,Yash Dayal,RCB,0,0,0,0,0.0,1,23,24,0,5.75
+6,25-Mar-24,Bengaluru,Mayank Dagar,RCB,0,0,0,0,0.0,0,34,18,0,11.33
+6,25-Mar-24,Bengaluru,Rahul Chahar,PBKS,0,0,0,0,0.0,0,16,6,0,16.0
+6,25-Mar-24,Bengaluru,Rajat Patidar,RCB,18,18,1,1,100.0,0,0,0,1,0.0
+6,25-Mar-24,Bengaluru,Arshdeep Singh,PBKS,0,0,0,0,0.0,0,40,20,0,12.0
+6,25-Mar-24,Bengaluru,Rabada,PBKS,0,0,0,0,0.0,2,23,24,0,5.75
+6,25-Mar-24,Bengaluru,Lomror,RCB,17,8,2,1,212.5,0,0,0,0,0.0
+6,25-Mar-24,Bengaluru,Bairstow,PBKS,8,6,2,0,133.33,0,0,0,1,0.0
+6,25-Mar-24,Bengaluru,Livingstone,PBKS,17,13,1,1,130.77,0,0,0,1,0.0
+6,25-Mar-24,Bengaluru,Green,RCB,3,5,0,0,60.0,0,19,12,1,9.5
+6,25-Mar-24,Bengaluru,Maxwell,RCB,3,5,0,0,60.0,2,29,18,1,9.67
+6,25-Mar-24,Bengaluru,Siraj,RCB,0,0,0,0,0.0,2,26,24,0,6.5
+6,25-Mar-24,Bengaluru,du Plessis,RCB,3,7,0,0,42.86,0,0,0,1,0.0
+6,25-Mar-24,Bengaluru,Dhawan,PBKS,45,37,5,1,121.62,0,0,0,1,0.0
+6,25-Mar-24,Bengaluru,Kohli,RCB,77,49,11,2,157.14,0,0,0,1,0.0
+6,25-Mar-24,Bengaluru,Harshal Patel,PBKS,0,0,0,0,0.0,1,45,24,0,11.25
+6,25-Mar-24,Bengaluru,Alzarri Joseph,RCB,0,0,0,0,0.0,1,43,24,0,10.75
+7,26-Mar-24,Chennai,Sai Kishore,GT,0,0,0,0,0.0,1,28,18,0,9.33
+7,26-Mar-24,Chennai,Miller,GT,21,16,3,0,131.25,0,0,0,1,0.0
+7,26-Mar-24,Chennai,Rahul Tewatia,GT,6,11,1,0,54.55,0,0,0,1,0.0
+7,26-Mar-24,Chennai,Spencer Johnson,GT,5,5,1,0,100.0,1,35,24,0,8.75
+7,26-Mar-24,Chennai,Pathirana,CSK,0,0,0,0,0.0,1,29,24,0,7.25
+7,26-Mar-24,Chennai,Shankar,GT,12,12,0,1,100.0,0,0,0,1,0.0
+7,26-Mar-24,Chennai,Jadeja,CSK,7,3,1,0,233.33,0,15,12,1,7.5
+7,26-Mar-24,Chennai,Saha,GT,21,17,4,0,123.53,0,0,0,1,0.0
+7,26-Mar-24,Chennai,Tushar Deshpande,CSK,0,0,0,0,0.0,2,21,24,0,5.25
+7,26-Mar-24,Chennai,Sai Sudharsan,GT,37,31,3,0,119.35,0,0,0,1,0.0
+7,26-Mar-24,Chennai,Gaikwad,CSK,46,36,5,1,127.78,0,0,0,1,0.0
+7,26-Mar-24,Chennai,Sameer Rizvi,CSK,14,6,0,2,233.33,0,0,0,1,0.0
+7,26-Mar-24,Chennai,Rashid Khan,GT,1,2,0,0,50.0,2,49,24,1,12.25
+7,26-Mar-24,Chennai,Shivam Dube,CSK,51,23,2,5,221.74,0,0,0,1,0.0
+7,26-Mar-24,Chennai,Ravindra,CSK,46,20,6,3,230.0,0,0,0,1,0.0
+7,26-Mar-24,Chennai,Chahar,CSK,0,0,0,0,0.0,2,28,24,0,7.0
+7,26-Mar-24,Chennai,Shubman Gill,GT,8,5,0,1,160.0,0,0,0,1,0.0
+7,26-Mar-24,Chennai,Mitchell,CSK,24,20,2,0,120.0,1,18,12,0,9.0
+7,26-Mar-24,Chennai,Azmatullah,GT,11,10,1,0,110.0,0,30,18,1,10.0
+7,26-Mar-24,Chennai,Mohit Sharma,GT,0,0,0,0,0.0,1,36,24,0,9.0
+7,26-Mar-24,Chennai,Rahane,CSK,12,12,1,0,100.0,0,0,0,1,0.0
+7,26-Mar-24,Chennai,Mustafizur,CSK,0,0,0,0,0.0,2,30,24,0,7.5
+7,26-Mar-24,Chennai,Umesh Yadav,GT,10,11,0,1,90.91,0,27,12,0,13.5
+8,27-Mar-24,Hyderabad,Naman Dhir,MI,30,14,2,2,214.29,0,0,0,1,0.0
+8,27-Mar-24,Hyderabad,Hardik Pandya,MI,24,20,1,1,120.0,1,46,24,1,11.5
+8,27-Mar-24,Hyderabad,Ishan Kishan,MI,34,13,2,4,261.54,0,0,0,1,0.0
+8,27-Mar-24,Hyderabad,Tilak Varma,MI,64,33,2,6,193.94,0,0,0,1,0.0
+8,27-Mar-24,Hyderabad,Umran Malik,SRH,0,0,0,0,0.0,0,15,6,0,15.0
+8,27-Mar-24,Hyderabad,Unadkat,SRH,0,0,0,0,0.0,2,47,24,0,11.75
+8,27-Mar-24,Hyderabad,Shams Mulani,MI,0,0,0,0,0.0,0,32,12,0,16.0
+8,27-Mar-24,Hyderabad,Bhuvneshwar,SRH,0,0,0,0,0.0,0,53,24,0,13.25
+8,27-Mar-24,Hyderabad,Chawla,MI,0,0,0,0,0.0,1,34,12,0,17.0
+8,27-Mar-24,Hyderabad,Shahbaz Ahmed,SRH,0,0,0,0,0.0,1,39,18,0,13.0
+8,27-Mar-24,Hyderabad,Klaasen,SRH,80,33,4,7,242.42,0,0,0,0,0.0
+8,27-Mar-24,Hyderabad,Tim David,MI,42,22,2,3,190.91,0,0,0,0,0.0
+8,27-Mar-24,Hyderabad,Cummins,SRH,0,0,0,0,0.0,2,35,24,0,8.75
+8,27-Mar-24,Hyderabad,Head,SRH,62,24,9,3,258.33,0,0,0,1,0.0
+8,27-Mar-24,Hyderabad,Mayank,SRH,11,13,1,0,84.62,0,0,0,1,0.0
+8,27-Mar-24,Hyderabad,Markram,SRH,42,28,2,1,150.0,0,0,0,0,0.0
+8,27-Mar-24,Hyderabad,Shepherd,MI,15,6,2,1,250.0,0,0,0,0,0.0
+8,27-Mar-24,Hyderabad,Kwena Maphaka,MI,0,0,0,0,0.0,0,66,24,0,16.5
+8,27-Mar-24,Hyderabad,Markande,SRH,0,0,0,0,0.0,0,52,24,0,13.0
+8,27-Mar-24,Hyderabad,Gerald Coetzee,MI,0,0,0,0,0.0,1,57,24,0,14.25
+8,27-Mar-24,Hyderabad,Rohit,MI,26,12,1,3,216.67,0,0,0,1,0.0
+8,27-Mar-24,Hyderabad,Bumrah,MI,0,0,0,0,0.0,0,36,24,0,9.0
+8,27-Mar-24,Hyderabad,Abhishek Sharma,SRH,63,22,3,7,286.36,0,0,0,1,0.0
+9,28-Mar-24,Jaipur,Mitchell Marsh,DC,23,12,5,0,191.67,0,0,0,1,0.0
+9,28-Mar-24,Jaipur,Sandeep Sharma,RR,0,0,0,0,0.0,0,36,24,0,9.0
+9,28-Mar-24,Jaipur,Riyan Parag,RR,84,45,7,6,186.67,0,0,0,0,0.0
+9,28-Mar-24,Jaipur,Buttler,RR,11,16,0,0,68.75,0,0,0,1,0.0
+9,28-Mar-24,Jaipur,Ashwin,RR,29,19,0,3,152.63,0,30,18,1,10.0
+9,28-Mar-24,Jaipur,Mukesh Kumar,DC,0,0,0,0,0.0,1,49,24,0,12.25
+9,28-Mar-24,Jaipur,Nortje,DC,0,0,0,0,0.0,1,48,24,0,12.0
+9,28-Mar-24,Jaipur,Tristan Stubbs,DC,44,23,2,3,191.3,0,0,0,0,0.0
+9,28-Mar-24,Jaipur,Boult,RR,0,0,0,0,0.0,0,29,18,0,9.67
+9,28-Mar-24,Jaipur,Bhui,DC,0,2,0,0,0.0,0,0,0,1,0.0
+9,28-Mar-24,Jaipur,Avesh Khan,RR,0,0,0,0,0.0,1,29,24,0,7.25
+9,28-Mar-24,Jaipur,Axar,DC,15,13,1,0,115.38,1,21,24,0,5.25
+9,28-Mar-24,Jaipur,Warner,DC,49,34,5,3,144.12,0,0,0,1,0.0
+9,28-Mar-24,Jaipur,Jaiswal,RR,5,7,1,0,71.43,0,0,0,1,0.0
+9,28-Mar-24,Jaipur,Dhruv Jurel,RR,20,12,3,0,166.67,0,0,0,1,0.0
+9,28-Mar-24,Jaipur,Abishek Porel,DC,9,10,0,0,90.0,0,0,0,1,0.0
+9,28-Mar-24,Jaipur,Kuldeep Yadav,DC,0,0,0,0,0.0,1,41,24,0,10.25
+9,28-Mar-24,Jaipur,Khaleel Ahmed,DC,0,0,0,0,0.0,1,24,24,0,6.0
+9,28-Mar-24,Jaipur,Samson,RR,15,14,3,0,107.14,0,0,0,1,0.0
+9,28-Mar-24,Jaipur,Nandre Burger,RR,0,0,0,0,0.0,2,29,18,0,9.67
+9,28-Mar-24,Jaipur,Hetmyer,RR,14,7,1,1,200.0,0,0,0,0,0.0
+9,28-Mar-24,Jaipur,Chahal,RR,0,0,0,0,0.0,2,19,18,0,6.33
+9,28-Mar-24,Jaipur,Pant,DC,28,26,2,1,107.69,0,0,0,1,0.0
+10,29-Mar-24,Bengaluru,Russell,KKR,0,0,0,0,0.0,2,29,24,0,7.25
+10,29-Mar-24,Bengaluru,Shreyas Iyer,KKR,39,24,2,2,162.5,0,0,0,0,0.0
+10,29-Mar-24,Bengaluru,Harshit Rana,KKR,0,0,0,0,0.0,2,39,24,0,9.75
+10,29-Mar-24,Bengaluru,Vijaykumar Vyshak,RCB,0,0,0,0,0.0,1,23,24,0,5.75
+10,29-Mar-24,Bengaluru,Anuj Rawat,RCB,3,3,0,0,100.0,0,0,0,1,0.0
+10,29-Mar-24,Bengaluru,Karthik,RCB,20,8,0,3,250.0,0,0,0,1,0.0
+10,29-Mar-24,Bengaluru,Rinku Singh,KKR,5,5,0,0,100.0,0,0,0,0,0.0
+10,29-Mar-24,Bengaluru,Narine,KKR,47,22,2,5,213.64,1,40,24,1,10.0
+10,29-Mar-24,Bengaluru,Yash Dayal,RCB,0,0,0,0,0.0,1,46,24,0,11.5
+10,29-Mar-24,Bengaluru,Mayank Dagar,RCB,0,0,0,0,0.0,1,23,17,0,8.12
+10,29-Mar-24,Bengaluru,Venkatesh Iyer,KKR,50,30,3,4,166.67,0,0,0,1,0.0
+10,29-Mar-24,Bengaluru,Chakaravarthy,KKR,0,0,0,0,0.0,0,20,12,0,10.0
+10,29-Mar-24,Bengaluru,Rajat Patidar,RCB,3,4,0,0,75.0,0,0,0,1,0.0
+10,29-Mar-24,Bengaluru,Philip Salt,KKR,30,20,2,2,150.0,0,0,0,1,0.0
+10,29-Mar-24,Bengaluru,Green,RCB,33,21,4,2,157.14,0,7,6,1,7.0
+10,29-Mar-24,Bengaluru,Maxwell,RCB,28,19,3,1,147.37,0,0,0,1,0.0
+10,29-Mar-24,Bengaluru,Anukul Roy,KKR,0,0,0,0,0.0,0,6,12,0,3.0
+10,29-Mar-24,Bengaluru,Siraj,RCB,0,0,0,0,0.0,0,46,18,0,15.33
+10,29-Mar-24,Bengaluru,du Plessis,RCB,8,6,0,1,133.33,0,0,0,1,0.0
+10,29-Mar-24,Bengaluru,Kohli,RCB,83,59,4,4,140.68,0,0,0,0,0.0
+10,29-Mar-24,Bengaluru,Starc,KKR,0,0,0,0,0.0,0,47,24,0,11.75
+10,29-Mar-24,Bengaluru,Alzarri Joseph,RCB,0,0,0,0,0.0,0,34,12,0,17.0
+11,30-Mar-24,Lucknow,Harpreet Brar,PBKS,0,0,0,0,0.0,0,14,12,0,7.0
+11,30-Mar-24,Lucknow,Prabhsimran,PBKS,19,7,1,2,271.43,0,0,0,1,0.0
+11,30-Mar-24,Lucknow,Jitesh Sharma,PBKS,6,9,1,0,66.67,0,0,0,1,0.0
+11,30-Mar-24,Lucknow,Ayush Badoni,LSG,8,10,0,0,80.0,0,0,0,1,0.0
+11,30-Mar-24,Lucknow,Sam Curran,PBKS,0,1,0,0,0.0,3,28,24,1,7.0
+11,30-Mar-24,Lucknow,Mohsin Khan,LSG,2,1,0,0,200.0,2,34,24,1,8.5
+11,30-Mar-24,Lucknow,Padikkal,LSG,9,6,2,0,150.0,0,0,0,1,0.0
+11,30-Mar-24,Lucknow,Shashank Singh,PBKS,9,7,1,0,128.57,0,0,0,0,0.0
+11,30-Mar-24,Lucknow,Naveen-ul-Haq,LSG,0,0,0,0,0.0,0,43,24,0,10.75
+11,30-Mar-24,Lucknow,Mayank Yadav,LSG,0,0,0,0,0.0,3,27,24,0,6.75
+11,30-Mar-24,Lucknow,M Siddharth,LSG,0,0,0,0,0.0,0,21,12,0,10.5
+11,30-Mar-24,Lucknow,Rahul Chahar,PBKS,0,0,0,0,0.0,1,42,18,0,14.0
+11,30-Mar-24,Lucknow,Pooran,LSG,42,21,3,3,200.0,0,0,0,1,0.0
+11,30-Mar-24,Lucknow,Rahul,LSG,15,9,1,1,166.67,0,0,0,1,0.0
+11,30-Mar-24,Lucknow,Arshdeep Singh,PBKS,0,0,0,0,0.0,2,30,18,0,10.0
+11,30-Mar-24,Lucknow,Rabada,PBKS,0,0,0,0,0.0,1,38,24,0,9.5
+11,30-Mar-24,Lucknow,Bairstow,PBKS,42,29,3,3,144.83,0,0,0,1,0.0
+11,30-Mar-24,Lucknow,Livingstone,PBKS,28,17,2,2,164.71,0,0,0,0,0.0
+11,30-Mar-24,Lucknow,Stoinis,LSG,19,12,0,2,158.33,0,0,0,1,0.0
+11,30-Mar-24,Lucknow,Dhawan,PBKS,70,50,7,3,140.0,0,0,0,1,0.0
+11,30-Mar-24,Lucknow,Harshal Patel,PBKS,0,0,0,0,0.0,0,44,24,0,11.0
+11,30-Mar-24,Lucknow,de Kock,LSG,54,38,5,2,142.11,0,0,0,1,0.0
+11,30-Mar-24,Lucknow,Krunal Pandya,LSG,43,22,4,2,195.45,0,26,18,0,8.67
+11,30-Mar-24,Lucknow,Ravi Bishnoi,LSG,0,1,0,0,0.0,0,25,18,1,8.33
+12,31-Mar-24,Ahmedabad,Noor Ahmad,GT,0,0,0,0,0.0,1,32,24,0,8.0
+12,31-Mar-24,Ahmedabad,Darshan Nalkande,GT,0,0,0,0,0.0,0,18,12,0,9.0
+12,31-Mar-24,Ahmedabad,Unadkat,SRH,0,0,0,0,0.0,0,33,19,0,10.42
+12,31-Mar-24,Ahmedabad,Miller,GT,44,27,4,2,162.96,0,0,0,0,0.0
+12,31-Mar-24,Ahmedabad,Shankar,GT,14,11,2,0,127.27,0,0,0,0,0.0
+12,31-Mar-24,Ahmedabad,Bhuvneshwar,SRH,0,0,0,0,0.0,0,27,24,0,6.75
+12,31-Mar-24,Ahmedabad,Saha,GT,25,13,1,2,192.31,0,0,0,1,0.0
+12,31-Mar-24,Ahmedabad,Shahbaz Ahmed,SRH,22,20,1,1,110.0,1,20,12,1,10.0
+12,31-Mar-24,Ahmedabad,Klaasen,SRH,24,13,1,2,184.62,0,0,0,1,0.0
+12,31-Mar-24,Ahmedabad,Sai Sudharsan,GT,45,36,4,1,125.0,0,0,0,1,0.0
+12,31-Mar-24,Ahmedabad,Rashid Khan,GT,0,0,0,0,0.0,1,33,24,0,8.25
+12,31-Mar-24,Ahmedabad,Mohit Sharma,GT,0,0,0,0,0.0,3,25,24,0,6.25
+12,31-Mar-24,Ahmedabad,Cummins,SRH,2,2,0,0,100.0,1,28,24,0,7.0
+12,31-Mar-24,Ahmedabad,Head,SRH,19,14,3,0,135.71,0,0,0,1,0.0
+12,31-Mar-24,Ahmedabad,Mayank,SRH,16,17,2,0,94.12,0,0,0,1,0.0
+12,31-Mar-24,Ahmedabad,Markram,SRH,17,19,0,0,89.47,0,0,0,1,0.0
+12,31-Mar-24,Ahmedabad,Washington Sundar,SRH,0,1,0,0,0.0,0,27,18,1,9.0
+12,31-Mar-24,Ahmedabad,Markande,SRH,0,0,0,0,0.0,1,33,18,0,11.0
+12,31-Mar-24,Ahmedabad,Shubman Gill,GT,36,28,2,1,128.57,0,0,0,1,0.0
+12,31-Mar-24,Ahmedabad,Azmatullah,GT,0,0,0,0,0.0,1,24,18,0,8.0
+12,31-Mar-24,Ahmedabad,Abhishek Sharma,SRH,29,20,2,2,145.0,0,0,0,1,0.0
+12,31-Mar-24,Ahmedabad,Abdul Samad,SRH,29,14,3,1,207.14,0,0,0,1,0.0
+12,31-Mar-24,Ahmedabad,Umesh Yadav,GT,0,0,0,0,0.0,1,28,18,0,9.33
+13,31-Mar-24,Visakhapatnam,Mitchell Marsh,DC,18,12,2,1,150.0,0,14,6,1,14.0
+13,31-Mar-24,Visakhapatnam,Rasikh Salam,DC,0,0,0,0,0.0,0,25,12,0,12.5
+13,31-Mar-24,Visakhapatnam,Pathirana,CSK,0,0,0,0,0.0,3,30,24,0,7.5
+13,31-Mar-24,Visakhapatnam,Mukesh Kumar,DC,0,0,0,0,0.0,3,21,18,0,7.0
+13,31-Mar-24,Visakhapatnam,Jadeja,CSK,21,17,2,0,123.53,1,43,24,0,10.75
+13,31-Mar-24,Visakhapatnam,Nortje,DC,0,0,0,0,0.0,0,43,24,0,10.75
+13,31-Mar-24,Visakhapatnam,Tristan Stubbs,DC,0,2,0,0,0.0,0,0,0,1,0.0
+13,31-Mar-24,Visakhapatnam,Tushar Deshpande,CSK,0,0,0,0,0.0,0,24,24,0,6.0
+13,31-Mar-24,Visakhapatnam,Dhoni,CSK,37,16,4,3,231.25,0,0,0,0,0.0
+13,31-Mar-24,Visakhapatnam,Ishant,DC,0,0,0,0,0.0,0,23,18,0,7.67
+13,31-Mar-24,Visakhapatnam,Gaikwad,CSK,1,2,0,0,50.0,0,0,0,1,0.0
+13,31-Mar-24,Visakhapatnam,Sameer Rizvi,CSK,0,1,0,0,0.0,0,0,0,1,0.0
+13,31-Mar-24,Visakhapatnam,Axar,DC,7,8,0,0,87.5,1,20,18,0,6.67
+13,31-Mar-24,Visakhapatnam,Shivam Dube,CSK,18,16,1,0,112.5,0,0,0,1,0.0
+13,31-Mar-24,Visakhapatnam,Ravindra,CSK,2,12,0,0,16.67,0,0,0,1,0.0
+13,31-Mar-24,Visakhapatnam,Warner,DC,52,34,5,3,152.94,0,0,0,1,0.0
+13,31-Mar-24,Visakhapatnam,Khaleel Ahmed,DC,0,0,0,0,0.0,2,20,24,0,5.0
+13,31-Mar-24,Visakhapatnam,Prithvi Shaw,DC,43,27,4,2,159.26,0,0,0,1,0.0
+13,31-Mar-24,Visakhapatnam,Abishek Porel,DC,9,5,1,0,180.0,0,0,0,0,0.0
+13,31-Mar-24,Visakhapatnam,Chahar,CSK,0,0,0,0,0.0,0,42,24,0,10.5
+13,31-Mar-24,Visakhapatnam,Mitchell,CSK,34,26,1,2,130.77,0,0,0,1,0.0
+13,31-Mar-24,Visakhapatnam,Rahane,CSK,45,30,5,2,150.0,0,0,0,1,0.0
+13,31-Mar-24,Visakhapatnam,Mustafizur,CSK,0,0,0,0,0.0,1,48,24,0,12.0
+13,31-Mar-24,Visakhapatnam,Pant,DC,51,32,4,3,159.38,0,0,0,1,0.0
+14,1-Apr-24,Mumbai,Naman Dhir,MI,0,1,0,0,0.0,0,0,0,1,0.0
+14,1-Apr-24,Mumbai,Hardik Pandya,MI,34,21,6,0,161.9,0,0,0,1,0.0
+14,1-Apr-24,Mumbai,Ishan Kishan,MI,16,14,2,1,114.29,0,0,0,1,0.0
+14,1-Apr-24,Mumbai,Tilak Varma,MI,32,29,0,2,110.34,0,0,0,1,0.0
+14,1-Apr-24,Mumbai,Riyan Parag,RR,54,39,5,3,138.46,0,0,0,0,0.0
+14,1-Apr-24,Mumbai,Buttler,RR,13,16,2,0,81.25,0,0,0,1,0.0
+14,1-Apr-24,Mumbai,Ashwin,RR,16,16,1,0,100.0,0,27,24,1,6.75
+14,1-Apr-24,Mumbai,Chawla,MI,3,6,0,0,50.0,0,18,18,1,6.0
+14,1-Apr-24,Mumbai,Akash Madhwal,MI,4,5,0,0,80.0,3,20,24,0,5.0
+14,1-Apr-24,Mumbai,Boult,RR,0,0,0,0,0.0,3,22,24,0,5.5
+14,1-Apr-24,Mumbai,Brevis,MI,0,1,0,0,0.0,0,0,0,1,0.0
+14,1-Apr-24,Mumbai,Tim David,MI,17,24,1,0,70.83,0,0,0,1,0.0
+14,1-Apr-24,Mumbai,Avesh Khan,RR,0,0,0,0,0.0,1,30,24,0,7.5
+14,1-Apr-24,Mumbai,Shubham Dubey,RR,8,6,1,0,133.33,0,0,0,0,0.0
+14,1-Apr-24,Mumbai,Jaiswal,RR,10,6,2,0,166.67,0,0,0,1,0.0
+14,1-Apr-24,Mumbai,Kwena Maphaka,MI,0,0,0,0,0.0,1,23,12,0,11.5
+14,1-Apr-24,Mumbai,Gerald Coetzee,MI,4,9,0,0,44.44,0,36,15,1,14.4
+14,1-Apr-24,Mumbai,Rohit,MI,0,1,0,0,0.0,0,0,0,1,0.0
+14,1-Apr-24,Mumbai,Bumrah,MI,8,9,1,0,88.89,0,26,24,0,6.5
+14,1-Apr-24,Mumbai,Samson,RR,12,10,3,0,120.0,0,0,0,1,0.0
+14,1-Apr-24,Mumbai,Nandre Burger,RR,0,0,0,0,0.0,2,32,24,0,8.0
+14,1-Apr-24,Mumbai,Chahal,RR,0,0,0,0,0.0,3,11,24,0,2.75
+15,2-Apr-24,Bengaluru,Anuj Rawat,RCB,11,21,0,0,52.38,0,0,0,1,0.0
+15,2-Apr-24,Bengaluru,Karthik,RCB,4,8,0,0,50.0,0,0,0,1,0.0
+15,2-Apr-24,Bengaluru,Topley,RCB,3,6,0,0,50.0,1,39,24,0,9.75
+15,2-Apr-24,Bengaluru,Ayush Badoni,LSG,0,3,0,0,0.0,0,0,0,1,0.0
+15,2-Apr-24,Bengaluru,Padikkal,LSG,6,11,0,0,54.55,0,0,0,1,0.0
+15,2-Apr-24,Bengaluru,Naveen-ul-Haq,LSG,0,0,0,0,0.0,2,25,22,0,6.82
+15,2-Apr-24,Bengaluru,Yash Dayal,RCB,0,0,0,0,0.0,1,24,24,0,6.0
+15,2-Apr-24,Bengaluru,Mayank Yadav,LSG,0,0,0,0,0.0,3,14,24,0,3.5
+15,2-Apr-24,Bengaluru,M Siddharth,LSG,0,0,0,0,0.0,1,21,18,0,7.0
+15,2-Apr-24,Bengaluru,Mayank Dagar,RCB,0,1,0,0,0.0,0,23,12,1,11.5
+15,2-Apr-24,Bengaluru,Yash Thakur,LSG,0,0,0,0,0.0,1,38,24,0,9.5
+15,2-Apr-24,Bengaluru,Rajat Patidar,RCB,29,21,2,2,138.1,0,0,0,1,0.0
+15,2-Apr-24,Bengaluru,Pooran,LSG,40,21,1,5,190.48,0,0,0,0,0.0
+15,2-Apr-24,Bengaluru,Rahul,LSG,20,14,0,2,142.86,0,0,0,1,0.0
+15,2-Apr-24,Bengaluru,Lomror,RCB,33,13,3,3,253.85,0,0,0,1,0.0
+15,2-Apr-24,Bengaluru,Green,RCB,9,9,1,0,100.0,0,25,12,1,12.5
+15,2-Apr-24,Bengaluru,Stoinis,LSG,24,15,1,2,160.0,1,9,6,1,9.0
+15,2-Apr-24,Bengaluru,Maxwell,RCB,0,2,0,0,0.0,2,23,24,1,5.75
+15,2-Apr-24,Bengaluru,Siraj,RCB,12,8,0,2,150.0,1,45,24,1,11.25
+15,2-Apr-24,Bengaluru,du Plessis,RCB,19,13,3,0,146.15,0,0,0,1,0.0
+15,2-Apr-24,Bengaluru,Kohli,RCB,22,16,2,1,137.5,0,0,0,1,0.0
+15,2-Apr-24,Bengaluru,de Kock,LSG,81,56,8,5,144.64,0,0,0,1,0.0
+15,2-Apr-24,Bengaluru,Krunal Pandya,LSG,0,0,0,0,0.0,0,10,6,0,10.0
+15,2-Apr-24,Bengaluru,Ravi Bishnoi,LSG,0,0,0,0,0.0,0,33,18,0,11.0
+16,3-Apr-24,Visakhapatnam,Russell,KKR,41,19,4,3,215.79,1,14,8,1,10.5
+16,3-Apr-24,Visakhapatnam,Angkrish Raghuvanshi,KKR,54,27,5,3,200.0,0,0,0,1,0.0
+16,3-Apr-24,Visakhapatnam,Mitchell Marsh,DC,0,2,0,0,0.0,1,37,18,1,12.33
+16,3-Apr-24,Visakhapatnam,Shreyas Iyer,KKR,18,11,0,2,163.64,0,0,0,1,0.0
+16,3-Apr-24,Visakhapatnam,Vaibhav Arora,KKR,0,0,0,0,0.0,3,27,24,0,6.75
+16,3-Apr-24,Visakhapatnam,Rinku Singh,KKR,26,7,1,3,371.43,0,0,0,1,0.0
+16,3-Apr-24,Visakhapatnam,Rasikh Salam,DC,1,5,0,0,20.0,0,47,18,1,15.67
+16,3-Apr-24,Visakhapatnam,Narine,KKR,85,39,7,7,217.95,1,29,24,1,7.25
+16,3-Apr-24,Visakhapatnam,Nortje,DC,4,6,0,0,66.67,3,59,24,1,14.75
+16,3-Apr-24,Visakhapatnam,Tristan Stubbs,DC,54,31,4,4,174.19,0,0,0,1,0.0
+16,3-Apr-24,Visakhapatnam,Venkatesh Iyer,KKR,5,2,1,0,250.0,0,28,6,0,28.0
+16,3-Apr-24,Visakhapatnam,Ramandeep Singh,KKR,2,2,0,0,100.0,0,0,0,1,0.0
+16,3-Apr-24,Visakhapatnam,Ishant,DC,1,3,0,0,33.33,2,43,18,0,14.33
+16,3-Apr-24,Visakhapatnam,Chakaravarthy,KKR,0,0,0,0,0.0,3,37,24,0,9.25
+16,3-Apr-24,Visakhapatnam,Axar,DC,0,1,0,0,0.0,0,18,6,1,18.0
+16,3-Apr-24,Visakhapatnam,Warner,DC,18,13,2,1,138.46,0,0,0,1,0.0
+16,3-Apr-24,Visakhapatnam,Philip Salt,KKR,18,12,4,0,150.0,0,0,0,1,0.0
+16,3-Apr-24,Visakhapatnam,Prithvi Shaw,DC,10,7,2,0,142.86,0,0,0,1,0.0
+16,3-Apr-24,Visakhapatnam,Abishek Porel,DC,0,5,0,0,0.0,0,0,0,1,0.0
+16,3-Apr-24,Visakhapatnam,Sumit Kumar,DC,7,6,0,1,116.67,0,19,12,1,9.5
+16,3-Apr-24,Visakhapatnam,Starc,KKR,1,1,0,0,100.0,2,25,18,0,8.33
+16,3-Apr-24,Visakhapatnam,Khaleel Ahmed,DC,0,0,0,0,0.0,1,43,24,0,10.75
+16,3-Apr-24,Visakhapatnam,Pant,DC,55,25,4,5,220.0,0,0,0,1,0.0
+17,4-Apr-24,Ahmedabad,Harpreet Brar,PBKS,1,2,0,0,50.0,1,33,24,0,8.25
+17,4-Apr-24,Ahmedabad,Noor Ahmad,GT,0,0,0,0,0.0,2,32,24,0,8.0
+17,4-Apr-24,Ahmedabad,Darshan Nalkande,GT,0,0,0,0,0.0,1,6,5,0,7.2
+17,4-Apr-24,Ahmedabad,Rahul Tewatia,GT,23,8,3,1,287.5,0,0,0,0,0.0
+17,4-Apr-24,Ahmedabad,Prabhsimran,PBKS,35,24,5,1,145.83,0,0,0,1,0.0
+17,4-Apr-24,Ahmedabad,Shashank Singh,PBKS,61,29,6,4,210.34,0,0,0,0,0.0
+17,4-Apr-24,Ahmedabad,Sam Curran,PBKS,5,8,0,0,62.5,0,18,12,1,9.0
+17,4-Apr-24,Ahmedabad,Jitesh Sharma,PBKS,16,8,0,2,200.0,0,0,0,1,0.0
+17,4-Apr-24,Ahmedabad,Ashutosh Sharma,PBKS,31,17,3,1,182.35,0,0,0,1,0.0
+17,4-Apr-24,Ahmedabad,Shankar,GT,8,10,0,0,80.0,0,0,0,1,0.0
+17,4-Apr-24,Ahmedabad,Saha,GT,11,13,2,0,84.62,0,0,0,1,0.0
+17,4-Apr-24,Ahmedabad,Sai Sudharsan,GT,33,19,6,0,173.68,0,0,0,1,0.0
+17,4-Apr-24,Ahmedabad,Rashid Khan,GT,0,0,0,0,0.0,1,40,24,0,10.0
+17,4-Apr-24,Ahmedabad,Arshdeep Singh,PBKS,0,0,0,0,0.0,0,33,24,0,8.25
+17,4-Apr-24,Ahmedabad,Rabada,PBKS,0,0,0,0,0.0,2,44,24,0,11.0
+17,4-Apr-24,Ahmedabad,Bairstow,PBKS,22,13,4,0,169.23,0,0,0,1,0.0
+17,4-Apr-24,Ahmedabad,Raza,PBKS,15,16,0,0,93.75,0,22,12,1,11.0
+17,4-Apr-24,Ahmedabad,Dhawan,PBKS,1,2,0,0,50.0,0,0,0,1,0.0
+17,4-Apr-24,Ahmedabad,Shubman Gill,GT,89,48,6,4,185.42,0,0,0,0,0.0
+17,4-Apr-24,Ahmedabad,Harshal Patel,PBKS,0,0,0,0,0.0,1,44,24,0,11.0
+17,4-Apr-24,Ahmedabad,Azmatullah,GT,0,0,0,0,0.0,1,41,24,0,10.25
+17,4-Apr-24,Ahmedabad,Williamson,GT,26,22,4,0,118.18,0,0,0,1,0.0
+17,4-Apr-24,Ahmedabad,Mohit Sharma,GT,0,0,0,0,0.0,1,38,24,0,9.5
+17,4-Apr-24,Ahmedabad,Umesh Yadav,GT,0,0,0,0,0.0,1,35,18,0,11.67
+18,5-Apr-24,Hyderabad,Unadkat,SRH,0,0,0,0,0.0,1,29,24,0,7.25
+18,5-Apr-24,Hyderabad,Nitish Reddy,SRH,14,8,1,1,175.0,0,0,0,0,0.0
+18,5-Apr-24,Hyderabad,Jadeja,CSK,31,23,4,0,134.78,0,30,24,0,7.5
+18,5-Apr-24,Hyderabad,Bhuvneshwar,SRH,0,0,0,0,0.0,1,28,24,0,7.0
+18,5-Apr-24,Hyderabad,Shahbaz Ahmed,SRH,18,19,0,1,94.74,1,11,6,1,11.0
+18,5-Apr-24,Hyderabad,T Natarajan,SRH,0,0,0,0,0.0,1,39,24,0,9.75
+18,5-Apr-24,Hyderabad,Tushar Deshpande,CSK,0,0,0,0,0.0,0,20,12,0,10.0
+18,5-Apr-24,Hyderabad,Dhoni,CSK,1,2,0,0,50.0,0,0,0,0,0.0
+18,5-Apr-24,Hyderabad,Klaasen,SRH,10,11,1,0,90.91,0,0,0,0,0.0
+18,5-Apr-24,Hyderabad,Gaikwad,CSK,26,21,3,1,123.81,0,0,0,1,0.0
+18,5-Apr-24,Hyderabad,Moeen Ali,CSK,0,0,0,0,0.0,2,23,18,0,7.67
+18,5-Apr-24,Hyderabad,Cummins,SRH,0,0,0,0,0.0,1,29,24,0,7.25
+18,5-Apr-24,Hyderabad,Shivam Dube,CSK,45,24,2,4,187.5,0,0,0,1,0.0
+18,5-Apr-24,Hyderabad,Ravindra,CSK,12,9,2,0,133.33,0,3,6,1,3.0
+18,5-Apr-24,Hyderabad,Mukesh Choudhary,CSK,0,0,0,0,0.0,0,27,6,0,27.0
+18,5-Apr-24,Hyderabad,Head,SRH,31,24,3,1,129.17,0,0,0,1,0.0
+18,5-Apr-24,Hyderabad,Markram,SRH,50,36,4,1,138.89,0,0,0,1,0.0
+18,5-Apr-24,Hyderabad,Theekshana,CSK,0,0,0,0,0.0,1,27,24,0,6.75
+18,5-Apr-24,Hyderabad,Markande,SRH,0,0,0,0,0.0,0,21,12,0,10.5
+18,5-Apr-24,Hyderabad,Chahar,CSK,0,0,0,0,0.0,1,32,19,0,10.11
+18,5-Apr-24,Hyderabad,Mitchell,CSK,13,11,1,0,118.18,0,0,0,1,0.0
+18,5-Apr-24,Hyderabad,Abhishek Sharma,SRH,37,11,3,4,336.36,0,7,6,1,7.0
+18,5-Apr-24,Hyderabad,Rahane,CSK,35,30,2,1,116.67,0,0,0,1,0.0
+19,6-Apr-24,Jaipur,Riyan Parag,RR,4,4,1,0,100.0,0,10,6,1,10.0
+19,6-Apr-24,Jaipur,Topley,RCB,0,0,0,0,0.0,2,27,24,0,6.75
+19,6-Apr-24,Jaipur,Buttler,RR,100,58,9,4,172.41,0,0,0,0,0.0
+19,6-Apr-24,Jaipur,Ashwin,RR,0,0,0,0,0.0,0,28,24,0,7.0
+19,6-Apr-24,Jaipur,Himanshu Sharma,RCB,0,0,0,0,0.0,0,29,12,0,14.5
+19,6-Apr-24,Jaipur,Yash Dayal,RCB,0,0,0,0,0.0,1,37,24,0,9.25
+19,6-Apr-24,Jaipur,Mayank Dagar,RCB,0,0,0,0,0.0,0,34,12,0,17.0
+19,6-Apr-24,Jaipur,Saurav Chauhan,RCB,9,6,0,1,150.0,0,0,0,1,0.0
+19,6-Apr-24,Jaipur,Boult,RR,0,0,0,0,0.0,0,30,18,0,10.0
+19,6-Apr-24,Jaipur,Avesh Khan,RR,0,0,0,0,0.0,0,46,24,0,11.5
+19,6-Apr-24,Jaipur,Jaiswal,RR,0,2,0,0,0.0,0,0,0,1,0.0
+19,6-Apr-24,Jaipur,Dhruv Jurel,RR,2,3,0,0,66.67,0,0,0,1,0.0
+19,6-Apr-24,Jaipur,Green,RCB,5,6,0,0,83.33,0,27,19,0,8.53
+19,6-Apr-24,Jaipur,Maxwell,RCB,1,3,0,0,33.33,0,0,0,1,0.0
+19,6-Apr-24,Jaipur,Siraj,RCB,0,0,0,0,0.0,1,35,24,0,8.75
+19,6-Apr-24,Jaipur,du Plessis,RCB,44,33,2,2,133.33,0,0,0,1,0.0
+19,6-Apr-24,Jaipur,Kohli,RCB,113,72,12,4,156.94,0,0,0,0,0.0
+19,6-Apr-24,Jaipur,Samson,RR,69,42,8,2,164.29,0,0,0,1,0.0
+19,6-Apr-24,Jaipur,Nandre Burger,RR,0,0,0,0,0.0,1,33,24,0,8.25
+19,6-Apr-24,Jaipur,Hetmyer,RR,11,6,2,0,183.33,0,0,0,0,0.0
+19,6-Apr-24,Jaipur,Chahal,RR,0,0,0,0,0.0,2,34,24,0,8.5
+20,7-Apr-24,Mumbai,Hardik Pandya,MI,39,33,3,1,118.18,0,0,0,1,0.0
+20,7-Apr-24,Mumbai,Ishan Kishan,MI,42,23,4,2,182.61,0,0,0,1,0.0
+20,7-Apr-24,Mumbai,Tilak Varma,MI,6,5,1,0,120.0,0,0,0,1,0.0
+20,7-Apr-24,Mumbai,J Richardson,DC,2,2,0,0,100.0,0,40,24,1,10.0
+20,7-Apr-24,Mumbai,Nortje,DC,0,0,0,0,0.0,2,65,24,0,16.25
+20,7-Apr-24,Mumbai,Tristan Stubbs,DC,71,24,3,7,295.83,0,0,0,0,0.0
+20,7-Apr-24,Mumbai,Chawla,MI,0,0,0,0,0.0,0,32,12,0,16.0
+20,7-Apr-24,Mumbai,Akash Madhwal,MI,0,0,0,0,0.0,0,45,24,0,11.25
+20,7-Apr-24,Mumbai,Suryakumar Yadav,MI,0,2,0,0,0.0,0,0,0,1,0.0
+20,7-Apr-24,Mumbai,Ishant,DC,0,0,0,0,0.0,0,40,18,0,13.33
+20,7-Apr-24,Mumbai,Nabi,MI,0,0,0,0,0.0,0,17,12,0,8.5
+20,7-Apr-24,Mumbai,Tim David,MI,45,20,2,4,225.0,0,0,0,0,0.0
+20,7-Apr-24,Mumbai,Lalit Yadav,DC,3,4,0,0,75.0,0,15,6,1,15.0
+20,7-Apr-24,Mumbai,Axar,DC,8,7,1,0,114.29,2,35,24,1,8.75
+20,7-Apr-24,Mumbai,Warner,DC,10,8,1,1,125.0,0,0,0,1,0.0
+20,7-Apr-24,Mumbai,Shepherd,MI,39,10,3,4,390.0,1,54,24,0,13.5
+20,7-Apr-24,Mumbai,Prithvi Shaw,DC,66,40,8,3,165.0,0,0,0,1,0.0
+20,7-Apr-24,Mumbai,Kushagra,DC,0,1,0,0,0.0,0,0,0,1,0.0
+20,7-Apr-24,Mumbai,Abishek Porel,DC,41,31,5,0,132.26,0,0,0,1,0.0
+20,7-Apr-24,Mumbai,Gerald Coetzee,MI,0,0,0,0,0.0,4,34,24,0,8.5
+20,7-Apr-24,Mumbai,Khaleel Ahmed,DC,0,0,0,0,0.0,1,39,24,0,9.75
+20,7-Apr-24,Mumbai,Rohit,MI,49,27,6,3,181.48,0,0,0,1,0.0
+20,7-Apr-24,Mumbai,Bumrah,MI,0,0,0,0,0.0,2,22,24,0,5.5
+20,7-Apr-24,Mumbai,Pant,DC,1,3,0,0,33.33,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,Darshan Nalkande,GT,12,11,0,1,109.09,2,21,12,1,10.5
+21,7-Apr-24,Lucknow,Noor Ahmad,GT,4,2,1,0,200.0,0,22,24,1,5.5
+21,7-Apr-24,Lucknow,Rahul Tewatia,GT,30,24,2,2,125.0,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,Ayush Badoni,LSG,20,11,3,0,181.82,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,Spencer Johnson,GT,0,1,0,0,0.0,0,32,24,0,8.0
+21,7-Apr-24,Lucknow,Padikkal,LSG,7,7,1,0,100.0,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,Naveen-ul-Haq,LSG,0,0,0,0,0.0,1,37,24,0,9.25
+21,7-Apr-24,Lucknow,Shankar,GT,17,17,0,1,100.0,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,Mayank Yadav,LSG,0,0,0,0,0.0,0,13,6,0,13.0
+21,7-Apr-24,Lucknow,Sharath BR,GT,2,5,0,0,40.0,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,M Siddharth,LSG,0,0,0,0,0.0,0,30,24,0,7.5
+21,7-Apr-24,Lucknow,Yash Thakur,LSG,0,0,0,0,0.0,5,31,23,0,8.09
+21,7-Apr-24,Lucknow,Sai Sudharsan,GT,31,20,4,0,155.0,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,Rashid Khan,GT,0,3,0,0,0.0,1,28,24,1,7.0
+21,7-Apr-24,Lucknow,Pooran,LSG,32,22,0,3,145.45,0,0,0,0,0.0
+21,7-Apr-24,Lucknow,Rahul,LSG,33,31,3,0,106.45,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,Stoinis,LSG,58,43,4,2,134.88,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,Shubman Gill,GT,19,21,2,0,90.48,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,de Kock,LSG,6,4,0,1,150.0,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,Williamson,GT,1,5,0,0,20.0,0,0,0,1,0.0
+21,7-Apr-24,Lucknow,Mohit Sharma,GT,0,0,0,0,0.0,0,34,18,0,11.33
+21,7-Apr-24,Lucknow,Krunal Pandya,LSG,2,2,0,0,100.0,3,11,24,0,2.75
+21,7-Apr-24,Lucknow,Ravi Bishnoi,LSG,0,0,0,0,0.0,1,8,12,0,4.0
+21,7-Apr-24,Lucknow,Umesh Yadav,GT,2,4,0,0,50.0,2,22,18,1,7.33
+22,8-Apr-24,Chennai,Russell,KKR,10,9,2,0,111.11,0,8,6,1,8.0
+22,8-Apr-24,Chennai,Angkrish Raghuvanshi,KKR,24,18,3,1,133.33,0,0,0,1,0.0
+22,8-Apr-24,Chennai,Shreyas Iyer,KKR,34,32,3,0,106.25,0,0,0,1,0.0
+22,8-Apr-24,Chennai,Vaibhav Arora,KKR,1,1,0,0,100.0,2,28,24,0,7.0
+22,8-Apr-24,Chennai,Rinku Singh,KKR,9,13,0,0,69.23,0,0,0,1,0.0
+22,8-Apr-24,Chennai,Narine,KKR,27,20,3,2,135.0,1,30,24,1,7.5
+22,8-Apr-24,Chennai,Jadeja,CSK,0,0,0,0,0.0,3,18,24,0,4.5
+22,8-Apr-24,Chennai,Thakur,CSK,0,0,0,0,0.0,0,27,18,0,9.0
+22,8-Apr-24,Chennai,Tushar Deshpande,CSK,0,0,0,0,0.0,3,33,24,0,8.25
+22,8-Apr-24,Chennai,Venkatesh Iyer,KKR,3,8,0,0,37.5,0,0,0,1,0.0
+22,8-Apr-24,Chennai,Ramandeep Singh,KKR,13,12,0,1,108.33,0,0,0,1,0.0
+22,8-Apr-24,Chennai,Dhoni,CSK,1,3,0,0,33.33,0,0,0,0,0.0
+22,8-Apr-24,Chennai,Chakaravarthy,KKR,0,0,0,0,0.0,0,26,24,0,6.5
+22,8-Apr-24,Chennai,Gaikwad,CSK,67,58,9,0,115.52,0,0,0,0,0.0
+22,8-Apr-24,Chennai,Shivam Dube,CSK,28,18,1,3,155.56,0,0,0,1,0.0
+22,8-Apr-24,Chennai,Ravindra,CSK,15,8,3,0,187.5,0,4,6,1,4.0
+22,8-Apr-24,Chennai,Philip Salt,KKR,0,1,0,0,0.0,0,0,0,1,0.0
+22,8-Apr-24,Chennai,Theekshana,CSK,0,0,0,0,0.0,1,28,24,0,7.0
+22,8-Apr-24,Chennai,Anukul Roy,KKR,3,3,0,0,100.0,0,18,10,0,10.8
+22,8-Apr-24,Chennai,Starc,KKR,0,3,0,0,0.0,0,29,18,1,9.67
+22,8-Apr-24,Chennai,Mitchell,CSK,25,19,1,1,131.58,0,0,0,1,0.0
+22,8-Apr-24,Chennai,Mustafizur,CSK,0,0,0,0,0.0,2,22,24,0,5.5
+23,9-Apr-24,Chandigarh,Harpreet Brar,PBKS,0,0,0,0,0.0,0,48,24,0,12.0
+23,9-Apr-24,Chandigarh,Unadkat,SRH,6,1,0,1,600.0,1,48,24,0,12.0
+23,9-Apr-24,Chandigarh,Prabhsimran,PBKS,4,6,1,0,66.67,0,0,0,1,0.0
+23,9-Apr-24,Chandigarh,Jitesh Sharma,PBKS,19,11,1,1,172.73,0,0,0,1,0.0
+23,9-Apr-24,Chandigarh,Shashank Singh,PBKS,46,25,6,1,184.0,0,0,0,0,0.0
+23,9-Apr-24,Chandigarh,Sam Curran,PBKS,29,22,2,2,131.82,2,41,24,1,10.25
+23,9-Apr-24,Chandigarh,Ashutosh Sharma,PBKS,33,15,3,2,220.0,0,0,0,0,0.0
+23,9-Apr-24,Chandigarh,Nitish Reddy,SRH,64,37,4,5,172.97,1,33,18,1,11.0
+23,9-Apr-24,Chandigarh,Bhuvneshwar,SRH,6,8,0,0,75.0,2,31,24,1,7.75
+23,9-Apr-24,Chandigarh,Shahbaz Ahmed,SRH,14,7,1,1,200.0,0,10,6,0,10.0
+23,9-Apr-24,Chandigarh,T Natarajan,SRH,0,0,0,0,0.0,1,33,24,0,8.25
+23,9-Apr-24,Chandigarh,Klaasen,SRH,9,9,1,0,100.0,0,0,0,1,0.0
+23,9-Apr-24,Chandigarh,Cummins,SRH,3,4,0,0,75.0,1,22,24,1,5.5
+23,9-Apr-24,Chandigarh,Arshdeep Singh,PBKS,0,0,0,0,0.0,4,29,24,0,7.25
+23,9-Apr-24,Chandigarh,Rabada,PBKS,0,0,0,0,0.0,1,32,24,0,8.0
+23,9-Apr-24,Chandigarh,Bairstow,PBKS,0,3,0,0,0.0,0,0,0,1,0.0
+23,9-Apr-24,Chandigarh,Head,SRH,21,15,4,0,140.0,0,0,0,1,0.0
+23,9-Apr-24,Chandigarh,Raza,PBKS,28,22,2,2,127.27,0,0,0,1,0.0
+23,9-Apr-24,Chandigarh,Markram,SRH,0,2,0,0,0.0,0,0,0,1,0.0
+23,9-Apr-24,Chandigarh,Tripathi,SRH,11,14,1,0,78.57,0,0,0,1,0.0
+23,9-Apr-24,Chandigarh,Dhawan,PBKS,14,16,2,0,87.5,0,0,0,1,0.0
+23,9-Apr-24,Chandigarh,Harshal Patel,PBKS,0,0,0,0,0.0,2,30,24,0,7.5
+23,9-Apr-24,Chandigarh,Abhishek Sharma,SRH,16,11,2,1,145.45,0,0,0,1,0.0
+23,9-Apr-24,Chandigarh,Abdul Samad,SRH,25,12,5,0,208.33,0,0,0,1,0.0
+24,10-Apr-24,Jaipur,Noor Ahmad,GT,0,0,0,0,0.0,0,43,24,0,10.75
+24,10-Apr-24,Jaipur,Riyan Parag,RR,76,48,3,5,158.33,0,0,0,1,0.0
+24,10-Apr-24,Jaipur,Abhinav Manohar,GT,1,2,0,0,50.0,0,0,0,1,0.0
+24,10-Apr-24,Jaipur,Buttler,RR,8,10,0,0,80.0,0,0,0,1,0.0
+24,10-Apr-24,Jaipur,Rahul Tewatia,GT,22,11,3,0,200.0,0,0,0,1,0.0
+24,10-Apr-24,Jaipur,Shahrukh Khan,GT,14,8,1,1,175.0,0,0,0,1,0.0
+24,10-Apr-24,Jaipur,Spencer Johnson,GT,0,0,0,0,0.0,0,37,24,0,9.25
+24,10-Apr-24,Jaipur,Ashwin,RR,0,0,0,0,0.0,0,40,24,0,10.0
+24,10-Apr-24,Jaipur,Shankar,GT,16,10,3,0,160.0,0,0,0,1,0.0
+24,10-Apr-24,Jaipur,Wade,GT,4,6,0,0,66.67,0,0,0,1,0.0
+24,10-Apr-24,Jaipur,Boult,RR,0,0,0,0,0.0,0,8,12,0,4.0
+24,10-Apr-24,Jaipur,Sai Sudharsan,GT,35,29,3,1,120.69,0,0,0,1,0.0
+24,10-Apr-24,Jaipur,Umesh Yadav,GT,0,0,0,0,0.0,1,46,24,0,11.5
+24,10-Apr-24,Jaipur,Rashid Khan,GT,24,10,4,0,240.0,1,18,24,0,4.5
+24,10-Apr-24,Jaipur,Avesh Khan,RR,0,0,0,0,0.0,1,47,24,0,11.75
+24,10-Apr-24,Jaipur,Maharaj,RR,0,0,0,0,0.0,0,16,12,0,8.0
+24,10-Apr-24,Jaipur,Jaiswal,RR,24,19,5,0,126.32,0,0,0,1,0.0
+24,10-Apr-24,Jaipur,Shubman Gill,GT,72,44,6,2,163.64,0,0,0,1,0.0
+24,10-Apr-24,Jaipur,Samson,RR,68,38,7,2,178.95,0,0,0,0,0.0
+24,10-Apr-24,Jaipur,Mohit Sharma,GT,0,0,0,0,0.0,1,51,24,0,12.75
+24,10-Apr-24,Jaipur,Hetmyer,RR,13,5,1,1,260.0,0,0,0,0,0.0
+24,10-Apr-24,Jaipur,Chahal,RR,0,0,0,0,0.0,2,43,24,0,10.75
+24,10-Apr-24,Jaipur,Kuldeep Sen,RR,0,0,0,0,0.0,3,41,24,0,10.25
+25,11-Apr-24,Mumbai,Hardik Pandya,MI,21,6,0,3,350.0,0,12,6,0,12.0
+25,11-Apr-24,Mumbai,Ishan Kishan,MI,69,34,7,5,202.94,0,0,0,1,0.0
+25,11-Apr-24,Mumbai,Tilak Varma,MI,16,10,3,0,160.0,0,0,0,0,0.0
+25,11-Apr-24,Mumbai,Vijaykumar Vyshak,RCB,0,1,0,0,0.0,1,32,18,1,10.67
+25,11-Apr-24,Mumbai,Karthik,RCB,53,23,5,4,230.43,0,0,0,0,0.0
+25,11-Apr-24,Mumbai,Topley,RCB,0,0,0,0,0.0,0,34,18,0,11.33
+25,11-Apr-24,Mumbai,Saurav Chauhan,RCB,9,8,1,0,112.5,0,0,0,1,0.0
+25,11-Apr-24,Mumbai,Akash Madhwal,MI,0,0,0,0,0.0,1,57,24,0,14.25
+25,11-Apr-24,Mumbai,Suryakumar Yadav,MI,52,19,5,4,273.68,0,0,0,1,0.0
+25,11-Apr-24,Mumbai,Rajat Patidar,RCB,50,26,3,4,192.31,0,0,0,1,0.0
+25,11-Apr-24,Mumbai,Nabi,MI,0,0,0,0,0.0,0,7,6,0,7.0
+25,11-Apr-24,Mumbai,Akash Deep,RCB,2,2,0,0,100.0,1,55,21,0,15.71
+25,11-Apr-24,Mumbai,Lomror,RCB,0,1,0,0,0.0,0,0,0,1,0.0
+25,11-Apr-24,Mumbai,Shepherd,MI,0,0,0,0,0.0,0,22,12,0,11.0
+25,11-Apr-24,Mumbai,Will Jacks,RCB,8,6,2,0,133.33,1,24,12,1,12.0
+25,11-Apr-24,Mumbai,Maxwell,RCB,0,4,0,0,0.0,0,17,6,1,17.0
+25,11-Apr-24,Mumbai,Siraj,RCB,0,0,0,0,0.0,0,37,18,0,12.33
+25,11-Apr-24,Mumbai,du Plessis,RCB,61,40,4,3,152.5,0,0,0,1,0.0
+25,11-Apr-24,Mumbai,Kohli,RCB,3,9,0,0,33.33,0,0,0,1,0.0
+25,11-Apr-24,Mumbai,Gerald Coetzee,MI,0,0,0,0,0.0,1,41,24,0,10.25
+25,11-Apr-24,Mumbai,Shreyas Gopal,MI,0,0,0,0,0.0,1,32,24,0,8.0
+25,11-Apr-24,Mumbai,Rohit,MI,38,24,3,3,158.33,0,0,0,1,0.0
+25,11-Apr-24,Mumbai,Bumrah,MI,0,0,0,0,0.0,5,21,24,0,5.25
+26,12-Apr-24,Lucknow,Ayush Badoni,LSG,55,35,5,1,157.14,0,0,0,0,0.0
+26,12-Apr-24,Lucknow,Padikkal,LSG,3,6,0,0,50.0,0,0,0,1,0.0
+26,12-Apr-24,Lucknow,Naveen-ul-Haq,LSG,0,0,0,0,0.0,1,24,18,0,8.0
+26,12-Apr-24,Lucknow,Mukesh Kumar,DC,0,0,0,0,0.0,1,41,24,0,10.25
+26,12-Apr-24,Lucknow,Tristan Stubbs,DC,15,9,0,1,166.67,0,0,0,0,0.0
+26,12-Apr-24,Lucknow,Yash Thakur,LSG,0,0,0,0,0.0,1,31,24,0,7.75
+26,12-Apr-24,Lucknow,Ishant,DC,0,0,0,0,0.0,1,36,24,0,9.0
+26,12-Apr-24,Lucknow,Shai Hope,DC,11,10,1,0,110.0,0,0,0,0,0.0
+26,12-Apr-24,Lucknow,Pooran,LSG,0,1,0,0,0.0,0,0,0,1,0.0
+26,12-Apr-24,Lucknow,Rahul,LSG,39,22,5,1,177.27,0,0,0,1,0.0
+26,12-Apr-24,Lucknow,Axar,DC,0,0,0,0,0.0,0,26,24,0,6.5
+26,12-Apr-24,Lucknow,Warner,DC,8,9,1,0,88.89,0,0,0,1,0.0
+26,12-Apr-24,Lucknow,Arshad Khan,LSG,20,16,2,0,125.0,0,34,19,0,10.74
+26,12-Apr-24,Lucknow,Prithvi Shaw,DC,32,22,6,0,145.45,0,0,0,1,0.0
+26,12-Apr-24,Lucknow,Stoinis,LSG,8,10,1,0,80.0,0,10,6,1,10.0
+26,12-Apr-24,Lucknow,Fraser-McGurk,DC,55,35,2,5,157.14,0,0,0,1,0.0
+26,12-Apr-24,Lucknow,Kuldeep Yadav,DC,0,0,0,0,0.0,3,20,24,0,5.0
+26,12-Apr-24,Lucknow,Hooda,LSG,10,13,0,0,76.92,0,0,0,1,0.0
+26,12-Apr-24,Lucknow,Khaleel Ahmed,DC,0,0,0,0,0.0,2,41,24,0,10.25
+26,12-Apr-24,Lucknow,de Kock,LSG,19,13,4,0,146.15,0,0,0,1,0.0
+26,12-Apr-24,Lucknow,Krunal Pandya,LSG,3,4,0,0,75.0,0,45,18,1,15.0
+26,12-Apr-24,Lucknow,Ravi Bishnoi,LSG,0,0,0,0,0.0,2,25,24,0,6.25
+26,12-Apr-24,Lucknow,Pant,DC,41,24,4,2,170.83,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Harpreet Brar,PBKS,3,3,0,0,100.0,0,22,18,0,7.33
+27,13-Apr-24,Chandigarh,Prabhsimran,PBKS,10,14,1,0,71.43,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Jitesh Sharma,PBKS,29,24,1,2,120.83,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Shashank Singh,PBKS,9,9,1,0,100.0,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Sam Curran,PBKS,6,10,0,0,60.0,2,25,24,1,6.25
+27,13-Apr-24,Chandigarh,Ashutosh Sharma,PBKS,31,15,1,3,206.67,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Riyan Parag,RR,23,18,1,1,127.78,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Boult,RR,0,0,0,0,0.0,1,22,24,0,5.5
+27,13-Apr-24,Chandigarh,Powell,RR,11,5,2,0,220.0,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Tanush Kotian,RR,24,31,3,0,77.42,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Avesh Khan,RR,0,0,0,0,0.0,2,34,24,0,8.5
+27,13-Apr-24,Chandigarh,Arshdeep Singh,PBKS,0,0,0,0,0.0,1,45,23,0,11.74
+27,13-Apr-24,Chandigarh,Rabada,PBKS,0,0,0,0,0.0,2,18,24,0,4.5
+27,13-Apr-24,Chandigarh,Maharaj,RR,1,2,0,0,50.0,2,23,24,1,5.75
+27,13-Apr-24,Chandigarh,Bairstow,PBKS,15,19,1,0,78.95,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Jaiswal,RR,39,28,4,0,139.29,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Atharva Taide,PBKS,15,12,2,0,125.0,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Dhruv Jurel,RR,6,11,0,0,54.55,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Livingstone,PBKS,21,14,2,1,150.0,1,21,18,1,7.0
+27,13-Apr-24,Chandigarh,Harshal Patel,PBKS,0,0,0,0,0.0,1,21,12,0,10.5
+27,13-Apr-24,Chandigarh,Samson,RR,18,14,1,1,128.57,0,0,0,1,0.0
+27,13-Apr-24,Chandigarh,Hetmyer,RR,27,10,1,3,270.0,0,0,0,0,0.0
+27,13-Apr-24,Chandigarh,Chahal,RR,0,0,0,0,0.0,1,31,24,0,7.75
+27,13-Apr-24,Chandigarh,Kuldeep Sen,RR,0,0,0,0,0.0,1,35,24,0,8.75
+28,14-Apr-24,Kolkata,Russell,KKR,0,0,0,0,0.0,1,16,6,0,16.0
+28,14-Apr-24,Kolkata,Angkrish Raghuvanshi,KKR,7,6,0,1,116.67,0,0,0,1,0.0
+28,14-Apr-24,Kolkata,Shreyas Iyer,KKR,38,38,6,0,100.0,0,0,0,0,0.0
+28,14-Apr-24,Kolkata,Harshit Rana,KKR,0,0,0,0,0.0,0,35,24,0,8.75
+28,14-Apr-24,Kolkata,Vaibhav Arora,KKR,0,0,0,0,0.0,1,34,18,0,11.33
+28,14-Apr-24,Kolkata,Ayush Badoni,LSG,29,27,2,1,107.41,0,0,0,1,0.0
+28,14-Apr-24,Kolkata,Narine,KKR,6,6,1,0,100.0,1,17,24,1,4.25
+28,14-Apr-24,Kolkata,Mohsin Khan,LSG,0,0,0,0,0.0,2,29,24,0,7.25
+28,14-Apr-24,Kolkata,Yash Thakur,LSG,0,0,0,0,0.0,0,25,12,0,12.5
+28,14-Apr-24,Kolkata,Chakaravarthy,KKR,0,0,0,0,0.0,1,30,24,0,7.5
+28,14-Apr-24,Kolkata,Shamar Joseph,LSG,0,0,0,0,0.0,0,47,24,0,11.75
+28,14-Apr-24,Kolkata,Pooran,LSG,45,32,2,4,140.62,0,0,0,1,0.0
+28,14-Apr-24,Kolkata,Rahul,LSG,39,26,3,2,150.0,0,0,0,1,0.0
+28,14-Apr-24,Kolkata,Arshad Khan,LSG,5,4,1,0,125.0,0,24,12,1,12.0
+28,14-Apr-24,Kolkata,Philip Salt,KKR,89,44,14,3,202.27,0,0,0,0,0.0
+28,14-Apr-24,Kolkata,Stoinis,LSG,10,5,2,0,200.0,0,0,0,1,0.0
+28,14-Apr-24,Kolkata,Hooda,LSG,8,10,1,0,80.0,0,0,0,1,0.0
+28,14-Apr-24,Kolkata,Starc,KKR,0,0,0,0,0.0,3,28,24,0,7.0
+28,14-Apr-24,Kolkata,de Kock,LSG,10,8,2,0,125.0,0,0,0,1,0.0
+28,14-Apr-24,Kolkata,Krunal Pandya,LSG,7,8,0,0,87.5,0,14,6,0,14.0
+28,14-Apr-24,Kolkata,Ravi Bishnoi,LSG,0,0,0,0,0.0,0,17,16,0,6.38
+29,14-Apr-24,Mumbai,Hardik Pandya,MI,2,6,0,0,33.33,2,43,18,1,14.33
+29,14-Apr-24,Mumbai,Ishan Kishan,MI,23,15,3,1,153.33,0,0,0,1,0.0
+29,14-Apr-24,Mumbai,Tilak Varma,MI,31,20,5,0,155.0,0,0,0,1,0.0
+29,14-Apr-24,Mumbai,Pathirana,CSK,0,0,0,0,0.0,4,28,24,0,7.0
+29,14-Apr-24,Mumbai,Jadeja,CSK,0,0,0,0,0.0,0,37,24,0,9.25
+29,14-Apr-24,Mumbai,Thakur,CSK,0,0,0,0,0.0,0,35,24,0,8.75
+29,14-Apr-24,Mumbai,Tushar Deshpande,CSK,0,0,0,0,0.0,1,29,24,0,7.25
+29,14-Apr-24,Mumbai,Akash Madhwal,MI,0,0,0,0,0.0,0,37,18,0,12.33
+29,14-Apr-24,Mumbai,Dhoni,CSK,20,4,0,3,500.0,0,0,0,0,0.0
+29,14-Apr-24,Mumbai,Suryakumar Yadav,MI,0,2,0,0,0.0,0,0,0,1,0.0
+29,14-Apr-24,Mumbai,Nabi,MI,4,7,0,0,57.14,0,19,18,0,6.33
+29,14-Apr-24,Mumbai,Tim David,MI,13,5,0,2,260.0,0,0,0,1,0.0
+29,14-Apr-24,Mumbai,Gaikwad,CSK,69,40,5,5,172.5,0,0,0,1,0.0
+29,14-Apr-24,Mumbai,Shivam Dube,CSK,66,38,10,2,173.68,0,0,0,0,0.0
+29,14-Apr-24,Mumbai,Ravindra,CSK,21,16,2,1,131.25,0,0,0,1,0.0
+29,14-Apr-24,Mumbai,Shepherd,MI,1,2,0,0,50.0,0,33,12,1,16.5
+29,14-Apr-24,Mumbai,Gerald Coetzee,MI,0,0,0,0,0.0,1,35,24,0,8.75
+29,14-Apr-24,Mumbai,Shreyas Gopal,MI,0,0,0,0,0.0,1,9,6,0,9.0
+29,14-Apr-24,Mumbai,Mitchell,CSK,17,14,1,0,121.43,0,0,0,1,0.0
+29,14-Apr-24,Mumbai,Rohit,MI,105,63,11,5,166.67,0,0,0,0,0.0
+29,14-Apr-24,Mumbai,Bumrah,MI,0,0,0,0,0.0,0,27,24,0,6.75
+29,14-Apr-24,Mumbai,Rahane,CSK,5,8,1,0,62.5,0,0,0,1,0.0
+29,14-Apr-24,Mumbai,Mustafizur,CSK,0,0,0,0,0.0,1,55,24,0,13.75
+30,15-Apr-24,Bengaluru,Vijaykumar Vyshak,RCB,1,2,0,0,50.0,0,64,24,0,16.0
+30,15-Apr-24,Bengaluru,Anuj Rawat,RCB,25,14,5,0,178.57,0,0,0,0,0.0
+30,15-Apr-24,Bengaluru,Karthik,RCB,83,35,5,7,237.14,0,0,0,1,0.0
+30,15-Apr-24,Bengaluru,Unadkat,SRH,0,0,0,0,0.0,0,37,12,0,18.5
+30,15-Apr-24,Bengaluru,Topley,RCB,0,0,0,0,0.0,1,68,24,0,17.0
+30,15-Apr-24,Bengaluru,Yash Dayal,RCB,0,0,0,0,0.0,0,51,24,0,12.75
+30,15-Apr-24,Bengaluru,Bhuvneshwar,SRH,0,0,0,0,0.0,0,59,24,0,14.75
+30,15-Apr-24,Bengaluru,Shahbaz Ahmed,SRH,0,0,0,0,0.0,0,18,6,0,18.0
+30,15-Apr-24,Bengaluru,Saurav Chauhan,RCB,0,1,0,0,0.0,0,0,0,1,0.0
+30,15-Apr-24,Bengaluru,T Natarajan,SRH,0,0,0,0,0.0,1,46,24,0,11.5
+30,15-Apr-24,Bengaluru,Ferguson,RCB,0,0,0,0,0.0,2,52,24,0,13.0
+30,15-Apr-24,Bengaluru,Klaasen,SRH,67,31,2,7,216.13,0,0,0,1,0.0
+30,15-Apr-24,Bengaluru,Rajat Patidar,RCB,9,5,0,1,180.0,0,0,0,1,0.0
+30,15-Apr-24,Bengaluru,Cummins,SRH,0,0,0,0,0.0,3,43,24,0,10.75
+30,15-Apr-24,Bengaluru,Lomror,RCB,19,11,0,2,172.73,0,17,6,1,17.0
+30,15-Apr-24,Bengaluru,Head,SRH,102,41,9,8,248.78,0,0,0,1,0.0
+30,15-Apr-24,Bengaluru,Markram,SRH,32,16,2,2,200.0,0,0,0,0,0.0
+30,15-Apr-24,Bengaluru,Will Jacks,RCB,7,4,1,0,175.0,0,32,18,1,10.67
+30,15-Apr-24,Bengaluru,Markande,SRH,0,0,0,0,0.0,2,46,24,0,11.5
+30,15-Apr-24,Bengaluru,du Plessis,RCB,62,28,7,4,221.43,0,0,0,1,0.0
+30,15-Apr-24,Bengaluru,Kohli,RCB,42,20,6,2,210.0,0,0,0,1,0.0
+30,15-Apr-24,Bengaluru,Abhishek Sharma,SRH,34,22,2,2,154.55,0,10,6,1,10.0
+30,15-Apr-24,Bengaluru,Abdul Samad,SRH,37,10,4,3,370.0,0,0,0,0,0.0
+31,16-Apr-24,Kolkata,Russell,KKR,13,10,2,0,130.0,0,17,6,1,17.0
+31,16-Apr-24,Kolkata,Angkrish Raghuvanshi,KKR,30,18,5,0,166.67,0,0,0,1,0.0
+31,16-Apr-24,Kolkata,Shreyas Iyer,KKR,11,7,1,1,157.14,0,0,0,1,0.0
+31,16-Apr-24,Kolkata,Harshit Rana,KKR,0,0,0,0,0.0,2,45,24,0,11.25
+31,16-Apr-24,Kolkata,Vaibhav Arora,KKR,0,0,0,0,0.0,1,45,18,0,15.0
+31,16-Apr-24,Kolkata,Rinku Singh,KKR,20,9,1,2,222.22,0,0,0,0,0.0
+31,16-Apr-24,Kolkata,Riyan Parag,RR,34,14,4,2,242.86,0,0,0,1,0.0
+31,16-Apr-24,Kolkata,Buttler,RR,107,59,9,6,181.36,0,0,0,0,0.0
+31,16-Apr-24,Kolkata,Narine,KKR,109,56,13,6,194.64,2,30,24,1,7.5
+31,16-Apr-24,Kolkata,Ashwin,RR,8,11,1,0,72.73,0,49,24,1,12.25
+31,16-Apr-24,Kolkata,Venkatesh Iyer,KKR,8,6,1,0,133.33,0,0,0,1,0.0
+31,16-Apr-24,Kolkata,Ramandeep Singh,KKR,1,1,0,0,100.0,0,0,0,0,0.0
+31,16-Apr-24,Kolkata,Boult,RR,0,1,0,0,0.0,1,31,24,1,7.75
+31,16-Apr-24,Kolkata,Powell,RR,26,13,1,3,200.0,0,0,0,1,0.0
+31,16-Apr-24,Kolkata,Chakaravarthy,KKR,0,0,0,0,0.0,2,36,24,0,9.0
+31,16-Apr-24,Kolkata,Avesh Khan,RR,0,0,0,0,0.0,2,35,24,0,8.75
+31,16-Apr-24,Kolkata,Jaiswal,RR,19,9,3,1,211.11,0,0,0,1,0.0
+31,16-Apr-24,Kolkata,Dhruv Jurel,RR,2,4,0,0,50.0,0,0,0,1,0.0
+31,16-Apr-24,Kolkata,Philip Salt,KKR,10,13,1,0,76.92,0,0,0,1,0.0
+31,16-Apr-24,Kolkata,Starc,KKR,0,0,0,0,0.0,0,50,24,0,12.5
+31,16-Apr-24,Kolkata,Samson,RR,12,8,2,0,150.0,0,0,0,1,0.0
+31,16-Apr-24,Kolkata,Hetmyer,RR,0,1,0,0,0.0,0,0,0,1,0.0
+31,16-Apr-24,Kolkata,Chahal,RR,0,0,0,0,0.0,1,54,24,0,13.5
+31,16-Apr-24,Kolkata,Kuldeep Sen,RR,0,0,0,0,0.0,2,46,24,0,11.5
+32,17-Apr-24,Ahmedabad,Noor Ahmad,GT,1,7,0,0,14.29,0,14,11,1,7.64
+32,17-Apr-24,Ahmedabad,Miller,GT,2,6,0,0,33.33,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Abhinav Manohar,GT,8,14,1,0,57.14,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Rahul Tewatia,GT,10,14,1,0,71.43,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Spencer Johnson,GT,1,1,0,0,100.0,1,22,12,0,11.0
+32,17-Apr-24,Ahmedabad,Shahrukh Khan,GT,0,1,0,0,0.0,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Mukesh Kumar,DC,0,0,0,0,0.0,3,14,15,0,5.6
+32,17-Apr-24,Ahmedabad,Saha,GT,2,10,0,0,20.0,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Tristan Stubbs,DC,0,0,0,0,0.0,2,11,6,0,11.0
+32,17-Apr-24,Ahmedabad,Ishant,DC,0,0,0,0,0.0,2,8,12,0,4.0
+32,17-Apr-24,Ahmedabad,Sai Sudharsan,GT,12,8,2,0,150.0,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Shai Hope,DC,19,10,1,2,190.0,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Rashid Khan,GT,31,24,2,1,129.17,1,12,12,1,6.0
+32,17-Apr-24,Ahmedabad,Axar,DC,0,0,0,0,0.0,1,17,24,0,4.25
+32,17-Apr-24,Ahmedabad,Warrier,GT,0,0,0,0,0.0,2,40,18,0,13.33
+32,17-Apr-24,Ahmedabad,Prithvi Shaw,DC,7,6,1,0,116.67,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Fraser-McGurk,DC,20,10,2,2,200.0,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Abishek Porel,DC,15,7,2,1,214.29,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Sumit Kumar,DC,9,9,2,0,100.0,0,0,0,0,0.0
+32,17-Apr-24,Ahmedabad,Kuldeep Yadav,DC,0,0,0,0,0.0,0,16,24,0,4.0
+32,17-Apr-24,Ahmedabad,Shubman Gill,GT,8,6,2,0,133.33,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Khaleel Ahmed,DC,0,0,0,0,0.0,1,18,24,0,4.5
+32,17-Apr-24,Ahmedabad,Mohit Sharma,GT,2,14,0,0,14.29,0,0,0,1,0.0
+32,17-Apr-24,Ahmedabad,Pant,DC,16,11,1,1,145.45,0,0,0,0,0.0
+33,18-Apr-24,Chandigarh,Harpreet Brar,PBKS,21,20,2,1,105.0,0,21,18,1,7.0
+33,18-Apr-24,Chandigarh,Rossouw,PBKS,1,3,0,0,33.33,0,0,0,1,0.0
+33,18-Apr-24,Chandigarh,Ishan Kishan,MI,8,8,1,0,100.0,0,0,0,1,0.0
+33,18-Apr-24,Chandigarh,Hardik Pandya,MI,10,6,0,1,166.67,1,32,24,1,8.0
+33,18-Apr-24,Chandigarh,Tilak Varma,MI,34,18,2,2,188.89,0,0,0,0,0.0
+33,18-Apr-24,Chandigarh,Prabhsimran,PBKS,0,1,0,0,0.0,0,0,0,1,0.0
+33,18-Apr-24,Chandigarh,Jitesh Sharma,PBKS,9,9,1,0,100.0,0,0,0,1,0.0
+33,18-Apr-24,Chandigarh,Shashank Singh,PBKS,41,25,2,3,164.0,0,0,0,1,0.0
+33,18-Apr-24,Chandigarh,Sam Curran,PBKS,6,7,1,0,85.71,2,41,24,1,10.25
+33,18-Apr-24,Chandigarh,Ashutosh Sharma,PBKS,61,26,2,7,234.62,0,0,0,1,0.0
+33,18-Apr-24,Chandigarh,Akash Madhwal,MI,0,0,0,0,0.0,1,46,19,0,14.53
+33,18-Apr-24,Chandigarh,Suryakumar Yadav,MI,78,53,7,3,147.17,0,0,0,1,0.0
+33,18-Apr-24,Chandigarh,Nabi,MI,0,1,0,0,0.0,0,0,0,1,0.0
+33,18-Apr-24,Chandigarh,Tim David,MI,14,7,2,1,200.0,0,0,0,1,0.0
+33,18-Apr-24,Chandigarh,Arshdeep Singh,PBKS,0,0,0,0,0.0,0,35,18,0,11.67
+33,18-Apr-24,Chandigarh,Rabada,PBKS,8,3,0,1,266.67,1,42,24,1,10.5
+33,18-Apr-24,Chandigarh,Harpreet Singh,PBKS,13,15,2,0,86.67,0,0,0,1,0.0
+33,18-Apr-24,Chandigarh,Shepherd,MI,1,2,0,0,50.0,0,20,12,1,10.0
+33,18-Apr-24,Chandigarh,Livingstone,PBKS,1,2,0,0,50.0,0,16,12,1,8.0
+33,18-Apr-24,Chandigarh,Gerald Coetzee,MI,0,0,0,0,0.0,3,33,24,0,8.25
+33,18-Apr-24,Chandigarh,Shreyas Gopal,MI,0,0,0,0,0.0,1,26,12,0,13.0
+33,18-Apr-24,Chandigarh,Harshal Patel,PBKS,1,4,0,0,25.0,3,31,24,0,7.75
+33,18-Apr-24,Chandigarh,Rohit,MI,36,25,2,3,144.0,0,0,0,1,0.0
+33,18-Apr-24,Chandigarh,Bumrah,MI,0,0,0,0,0.0,3,21,24,0,5.25
+34,19-Apr-24,Lucknow,Mohsin Khan,LSG,0,0,0,0,0.0,1,36,24,0,9.0
+34,19-Apr-24,Lucknow,Pathirana,CSK,0,0,0,0,0.0,1,29,24,0,7.25
+34,19-Apr-24,Lucknow,Jadeja,CSK,57,40,5,1,142.5,0,32,18,0,10.67
+34,19-Apr-24,Lucknow,Tushar Deshpande,CSK,0,0,0,0,0.0,0,41,24,0,10.25
+34,19-Apr-24,Lucknow,Yash Thakur,LSG,0,0,0,0,0.0,1,45,24,0,11.25
+34,19-Apr-24,Lucknow,Matt Henry,LSG,0,0,0,0,0.0,0,26,18,0,8.67
+34,19-Apr-24,Lucknow,Dhoni,CSK,28,9,3,2,311.11,0,0,0,0,0.0
+34,19-Apr-24,Lucknow,Ravi Bishnoi,LSG,0,0,0,0,0.0,1,44,24,0,11.0
+34,19-Apr-24,Lucknow,Gaikwad,CSK,17,13,1,0,130.77,0,0,0,1,0.0
+34,19-Apr-24,Lucknow,Moeen Ali,CSK,30,20,0,3,150.0,0,5,6,1,5.0
+34,19-Apr-24,Lucknow,Sameer Rizvi,CSK,1,5,0,0,20.0,0,0,0,1,0.0
+34,19-Apr-24,Lucknow,Pooran,LSG,23,11,3,1,209.09,0,0,0,0,0.0
+34,19-Apr-24,Lucknow,Rahul,LSG,82,53,9,3,154.72,0,0,0,1,0.0
+34,19-Apr-24,Lucknow,Shivam Dube,CSK,3,8,0,0,37.5,0,0,0,1,0.0
+34,19-Apr-24,Lucknow,Ravindra,CSK,0,1,0,0,0.0,0,0,0,1,0.0
+34,19-Apr-24,Lucknow, ,CSK,0,0,0,0,0.0,0,0,0,0,0.0
+34,19-Apr-24,Lucknow,Stoinis,LSG,8,7,1,0,114.29,1,7,12,0,3.5
+34,19-Apr-24,Lucknow,Mustafizur,CSK,0,0,0,0,0.0,1,43,24,0,10.75
+34,19-Apr-24,Lucknow,Chahar,CSK,0,0,0,0,0.0,0,26,18,0,8.67
+34,19-Apr-24,Lucknow,de Kock,LSG,54,43,5,1,125.58,0,0,0,1,0.0
+34,19-Apr-24,Lucknow,Rahane,CSK,36,24,5,1,150.0,0,0,0,1,0.0
+34,19-Apr-24,Lucknow,Krunal Pandya,LSG,0,0,0,0,0.0,2,16,18,0,5.33
+35,20-Apr-24,Delhi,Nitish Reddy,SRH,37,27,2,2,137.04,2,17,13,1,7.85
+35,20-Apr-24,Delhi,Mukesh Kumar,DC,0,2,0,0,0.0,1,57,24,0,14.25
+35,20-Apr-24,Delhi,Bhuvneshwar,SRH,0,0,0,0,0.0,1,31,24,0,7.75
+35,20-Apr-24,Delhi,Nortje,DC,0,2,0,0,0.0,0,31,18,1,10.33
+35,20-Apr-24,Delhi,Tristan Stubbs,DC,10,11,0,0,90.91,0,0,0,1,0.0
+35,20-Apr-24,Delhi,Shahbaz Ahmed,SRH,59,29,2,5,203.45,0,22,6,0,22.0
+35,20-Apr-24,Delhi,T Natarajan,SRH,0,0,0,0,0.0,4,19,24,0,4.75
+35,20-Apr-24,Delhi,Klaasen,SRH,15,8,0,2,187.5,0,0,0,1,0.0
+35,20-Apr-24,Delhi,Lalit Yadav,DC,7,8,1,0,87.5,0,41,12,1,20.5
+35,20-Apr-24,Delhi,Cummins,SRH,1,1,0,0,100.0,0,35,24,1,8.75
+35,20-Apr-24,Delhi,Axar,DC,6,8,0,0,75.0,1,29,24,1,7.25
+35,20-Apr-24,Delhi,Warner,DC,1,3,0,0,33.33,0,0,0,1,0.0
+35,20-Apr-24,Delhi,Head,SRH,89,32,11,6,278.12,0,0,0,1,0.0
+35,20-Apr-24,Delhi,Markram,SRH,1,3,0,0,33.33,0,0,0,1,0.0
+35,20-Apr-24,Delhi,Prithvi Shaw,DC,16,5,4,0,320.0,0,0,0,1,0.0
+35,20-Apr-24,Delhi,Fraser-McGurk,DC,65,18,5,7,361.11,0,0,0,1,0.0
+35,20-Apr-24,Delhi,Abishek Porel,DC,42,22,7,1,190.91,0,0,0,1,0.0
+35,20-Apr-24,Delhi,Washington Sundar,SRH,0,0,0,0,0.0,1,46,12,0,23.0
+35,20-Apr-24,Delhi,Kuldeep Yadav,DC,0,1,0,0,0.0,4,55,24,1,13.75
+35,20-Apr-24,Delhi,Markande,SRH,0,0,0,0,0.0,2,26,12,0,13.0
+35,20-Apr-24,Delhi,Khaleel Ahmed,DC,0,0,0,0,0.0,0,51,18,0,17.0
+35,20-Apr-24,Delhi,Abhishek Sharma,SRH,46,12,2,6,383.33,0,0,0,1,0.0
+35,20-Apr-24,Delhi,Abdul Samad,SRH,13,8,1,1,162.5,0,0,0,1,0.0
+35,20-Apr-24,Delhi,Pant,DC,44,35,5,1,125.71,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Russell,KKR,27,19,4,0,142.11,3,25,18,0,8.33
+36,21-Apr-24,Kolkata,Angkrish Raghuvanshi,KKR,3,4,0,0,75.0,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Shreyas Iyer,KKR,50,36,7,1,138.89,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Harshit Rana,KKR,0,0,0,0,0.0,2,33,24,0,8.25
+36,21-Apr-24,Kolkata,Rinku Singh,KKR,24,16,2,1,150.0,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Karthik,RCB,25,18,3,1,138.89,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Narine,KKR,10,15,2,0,66.67,2,34,24,1,8.5
+36,21-Apr-24,Kolkata,Yash Dayal,RCB,0,0,0,0,0.0,2,60,25,0,14.4
+36,21-Apr-24,Kolkata,Prabhudessai,RCB,24,18,3,0,133.33,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Venkatesh Iyer,KKR,16,8,3,0,200.0,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Ramandeep Singh,KKR,24,9,2,2,266.67,0,0,0,0,0.0
+36,21-Apr-24,Kolkata,Ferguson,RCB,1,1,0,0,100.0,1,47,24,1,11.75
+36,21-Apr-24,Kolkata,Chakaravarthy,KKR,0,0,0,0,0.0,1,36,24,0,9.0
+36,21-Apr-24,Kolkata,Rajat Patidar,RCB,52,23,3,5,226.09,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Suyash Sharma,KKR,0,0,0,0,0.0,0,33,12,0,16.5
+36,21-Apr-24,Kolkata,Karn Sharma,RCB,20,7,0,3,285.71,0,33,24,1,8.25
+36,21-Apr-24,Kolkata,Lomror,RCB,4,3,1,0,133.33,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Philip Salt,KKR,48,14,7,3,342.86,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Will Jacks,RCB,55,32,4,5,171.88,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Green,RCB,6,4,0,1,150.0,2,35,24,1,8.75
+36,21-Apr-24,Kolkata,Siraj,RCB,0,0,0,0,0.0,1,40,24,0,10.0
+36,21-Apr-24,Kolkata,du Plessis,RCB,7,7,1,0,100.0,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Kohli,RCB,18,7,1,2,257.14,0,0,0,1,0.0
+36,21-Apr-24,Kolkata,Starc,KKR,0,0,0,0,0.0,1,55,18,0,18.33
+37,21-Apr-24,Chandigarh,Harpreet Brar,PBKS,29,12,4,1,241.67,0,35,24,1,8.75
+37,21-Apr-24,Chandigarh,Rossouw,PBKS,9,7,2,0,128.57,0,0,0,1,0.0
+37,21-Apr-24,Chandigarh,Noor Ahmad,GT,0,0,0,0,0.0,2,20,24,0,5.0
+37,21-Apr-24,Chandigarh,Sai Kishore,GT,0,0,0,0,0.0,4,33,24,0,8.25
+37,21-Apr-24,Chandigarh,Miller,GT,4,6,0,0,66.67,0,0,0,1,0.0
+37,21-Apr-24,Chandigarh,Jitesh Sharma,PBKS,13,12,0,1,108.33,0,0,0,1,0.0
+37,21-Apr-24,Chandigarh,Prabhsimran,PBKS,35,20,3,3,175.0,0,0,0,1,0.0
+37,21-Apr-24,Chandigarh,Sam Curran,PBKS,20,19,2,0,105.26,1,18,12,1,9.0
+37,21-Apr-24,Chandigarh,Shahrukh Khan,GT,8,4,0,1,200.0,0,7,6,1,7.0
+37,21-Apr-24,Chandigarh,Shashank Singh,PBKS,8,12,0,0,66.67,0,0,0,1,0.0
+37,21-Apr-24,Chandigarh,Ashutosh Sharma,PBKS,3,8,0,0,37.5,0,0,0,1,0.0
+37,21-Apr-24,Chandigarh,Rahul Tewatia,GT,36,18,7,0,200.0,0,0,0,0,0.0
+37,21-Apr-24,Chandigarh,Saha,GT,13,11,1,0,118.18,0,0,0,1,0.0
+37,21-Apr-24,Chandigarh,Sai Sudharsan,GT,31,34,3,0,91.18,0,0,0,1,0.0
+37,21-Apr-24,Chandigarh,Rashid Khan,GT,3,3,0,0,100.0,1,15,24,1,3.75
+37,21-Apr-24,Chandigarh,Arshdeep Singh,PBKS,0,0,0,0,0.0,1,17,13,0,7.85
+37,21-Apr-24,Chandigarh,Rabada,PBKS,1,1,0,0,100.0,0,40,24,0,10.0
+37,21-Apr-24,Chandigarh,Warrier,GT,0,0,0,0,0.0,0,21,6,0,21.0
+37,21-Apr-24,Chandigarh,Harpreet Singh,PBKS,14,19,0,0,73.68,0,0,0,1,0.0
+37,21-Apr-24,Chandigarh,Livingstone,PBKS,6,9,1,0,66.67,2,19,24,1,4.75
+37,21-Apr-24,Chandigarh,Shubman Gill,GT,35,29,5,0,120.69,0,0,0,1,0.0
+37,21-Apr-24,Chandigarh,Harshal Patel,PBKS,0,1,0,0,0.0,3,15,18,1,5.0
+37,21-Apr-24,Chandigarh,Azmatullah,GT,13,10,0,1,130.0,0,13,12,1,6.5
+37,21-Apr-24,Chandigarh,Mohit Sharma,GT,0,0,0,0,0.0,2,32,24,0,8.0
+38,22-Apr-24,Jaipur,Hardik Pandya,MI,10,10,1,0,100.0,0,21,12,1,10.5
+38,22-Apr-24,Jaipur,Ishan Kishan,MI,0,3,0,0,0.0,0,0,0,1,0.0
+38,22-Apr-24,Jaipur,Tilak Varma,MI,65,45,5,3,144.44,0,8,4,1,12.0
+38,22-Apr-24,Jaipur,Sandeep Sharma,RR,0,0,0,0,0.0,5,18,24,0,4.5
+38,22-Apr-24,Jaipur,N Thushara,MI,0,0,0,0,0.0,0,28,18,0,9.33
+38,22-Apr-24,Jaipur,Buttler,RR,35,25,6,0,140.0,0,0,0,1,0.0
+38,22-Apr-24,Jaipur,Ashwin,RR,0,0,0,0,0.0,0,31,24,0,7.75
+38,22-Apr-24,Jaipur,Nehal Wadhera,MI,49,24,3,4,204.17,0,0,0,1,0.0
+38,22-Apr-24,Jaipur,Chawla,MI,1,1,0,0,100.0,1,33,24,0,8.25
+38,22-Apr-24,Jaipur,Boult,RR,0,0,0,0,0.0,2,32,24,0,8.0
+38,22-Apr-24,Jaipur,Suryakumar Yadav,MI,10,8,2,0,125.0,0,0,0,1,0.0
+38,22-Apr-24,Jaipur,Nabi,MI,23,17,2,1,135.29,0,30,18,1,10.0
+38,22-Apr-24,Jaipur,Tim David,MI,3,5,0,0,60.0,0,0,0,1,0.0
+38,22-Apr-24,Jaipur,Avesh Khan,RR,0,0,0,0,0.0,1,49,24,0,12.25
+38,22-Apr-24,Jaipur,Jaiswal,RR,104,60,9,7,173.33,0,0,0,0,0.0
+38,22-Apr-24,Jaipur,Gerald Coetzee,MI,0,1,0,0,0.0,0,25,12,1,12.5
+38,22-Apr-24,Jaipur,Rohit,MI,6,5,1,0,120.0,0,0,0,1,0.0
+38,22-Apr-24,Jaipur,Bumrah,MI,2,1,0,0,200.0,0,37,24,0,9.25
+38,22-Apr-24,Jaipur,Samson,RR,38,27,2,2,140.74,0,0,0,0,0.0
+38,22-Apr-24,Jaipur,Chahal,RR,0,0,0,0,0.0,1,48,24,0,12.0
+39,23-Apr-24,Chennai,Mohsin Khan,LSG,0,0,0,0,0.0,1,50,24,0,12.5
+39,23-Apr-24,Chennai,Padikkal,LSG,13,18,0,0,72.22,0,0,0,1,0.0
+39,23-Apr-24,Chennai,Pathirana,CSK,0,0,0,0,0.0,2,35,24,0,8.75
+39,23-Apr-24,Chennai,Jadeja,CSK,16,19,2,0,84.21,0,16,12,1,8.0
+39,23-Apr-24,Chennai,Thakur,CSK,0,0,0,0,0.0,0,42,18,0,14.0
+39,23-Apr-24,Chennai,Tushar Deshpande,CSK,0,0,0,0,0.0,0,34,18,0,11.33
+39,23-Apr-24,Chennai,Yash Thakur,LSG,0,0,0,0,0.0,1,47,24,0,11.75
+39,23-Apr-24,Chennai,Matt Henry,LSG,0,0,0,0,0.0,1,28,24,0,7.0
+39,23-Apr-24,Chennai,Dhoni,CSK,4,1,1,0,400.0,0,0,0,0,0.0
+39,23-Apr-24,Chennai,Ravi Bishnoi,LSG,0,0,0,0,0.0,0,19,12,0,9.5
+39,23-Apr-24,Chennai,Gaikwad,CSK,108,60,12,3,180.0,0,0,0,0,0.0
+39,23-Apr-24,Chennai,Moeen Ali,CSK,0,0,0,0,0.0,0,21,12,0,10.5
+39,23-Apr-24,Chennai,Pooran,LSG,34,15,3,2,226.67,0,0,0,1,0.0
+39,23-Apr-24,Chennai,Rahul,LSG,16,14,1,1,114.29,0,0,0,1,0.0
+39,23-Apr-24,Chennai,Shivam Dube,CSK,66,27,3,7,244.44,0,0,0,1,0.0
+39,23-Apr-24,Chennai,Stoinis,LSG,124,61,13,6,203.28,0,49,24,0,12.25
+39,23-Apr-24,Chennai,Mustafizur,CSK,0,0,0,0,0.0,1,51,21,0,14.57
+39,23-Apr-24,Chennai,Chahar,CSK,0,0,0,0,0.0,1,11,12,0,5.5
+39,23-Apr-24,Chennai,Hooda,LSG,17,6,2,1,283.33,0,0,0,0,0.0
+39,23-Apr-24,Chennai,Mitchell,CSK,11,10,1,0,110.0,0,0,0,1,0.0
+39,23-Apr-24,Chennai,de Kock,LSG,0,3,0,0,0.0,0,0,0,1,0.0
+39,23-Apr-24,Chennai,Rahane,CSK,1,3,0,0,33.33,0,0,0,1,0.0
+39,23-Apr-24,Chennai,Krunal Pandya,LSG,0,0,0,0,0.0,0,15,12,0,7.5
+40,24-Apr-24,Delhi,Noor Ahmad,GT,0,0,0,0,0.0,1,36,18,0,12.0
+40,24-Apr-24,Delhi,Sai Kishore,GT,13,6,0,2,216.67,0,22,6,1,22.0
+40,24-Apr-24,Delhi,Miller,GT,55,23,6,3,239.13,0,0,0,1,0.0
+40,24-Apr-24,Delhi,Rahul Tewatia,GT,4,5,0,0,80.0,0,0,0,1,0.0
+40,24-Apr-24,Delhi,Rasikh Salam,DC,0,0,0,0,0.0,3,44,24,0,11.0
+40,24-Apr-24,Delhi,Shahrukh Khan,GT,8,5,0,1,160.0,0,8,6,1,8.0
+40,24-Apr-24,Delhi,Mukesh Kumar,DC,0,0,0,0,0.0,1,41,24,0,10.25
+40,24-Apr-24,Delhi,Nortje,DC,0,0,0,0,0.0,1,48,18,0,16.0
+40,24-Apr-24,Delhi,Tristan Stubbs,DC,26,7,3,2,371.43,0,0,0,0,0.0
+40,24-Apr-24,Delhi,Saha,GT,39,25,5,1,156.0,0,0,0,1,0.0
+40,24-Apr-24,Delhi,Sai Sudharsan,GT,65,39,7,2,166.67,0,0,0,1,0.0
+40,24-Apr-24,Delhi,Shai Hope,DC,5,6,1,0,83.33,0,0,0,1,0.0
+40,24-Apr-24,Delhi,Rashid Khan,GT,21,10,3,1,210.0,0,35,24,0,8.75
+40,24-Apr-24,Delhi,Axar,DC,66,43,5,4,153.49,1,28,18,1,9.33
+40,24-Apr-24,Delhi,Warrier,GT,0,0,0,0,0.0,3,15,18,0,5.0
+40,24-Apr-24,Delhi,Prithvi Shaw,DC,11,7,2,0,157.14,0,0,0,1,0.0
+40,24-Apr-24,Delhi,Fraser-McGurk,DC,23,14,2,2,164.29,0,0,0,1,0.0
+40,24-Apr-24,Delhi,Kuldeep Yadav,DC,0,0,0,0,0.0,2,29,24,0,7.25
+40,24-Apr-24,Delhi,Shubman Gill,GT,6,5,1,0,120.0,0,0,0,1,0.0
+40,24-Apr-24,Delhi,Khaleel Ahmed,DC,0,0,0,0,0.0,0,26,12,0,13.0
+40,24-Apr-24,Delhi,Azmatullah,GT,1,2,0,0,50.0,0,33,24,1,8.25
+40,24-Apr-24,Delhi,Mohit Sharma,GT,0,0,0,0,0.0,0,73,24,0,18.25
+40,24-Apr-24,Delhi,Pant,DC,88,43,5,8,204.65,0,0,0,0,0.0
+41,25-Apr-24,Hyderabad,Unadkat,SRH,8,10,1,0,80.0,3,30,24,0,7.5
+41,25-Apr-24,Hyderabad,Karthik,RCB,11,6,2,0,183.33,0,0,0,1,0.0
+41,25-Apr-24,Hyderabad,Swapnil Singh,RCB,12,6,1,1,200.0,2,40,18,1,13.33
+41,25-Apr-24,Hyderabad,Nitish Reddy,SRH,13,13,0,1,100.0,0,0,0,1,0.0
+41,25-Apr-24,Hyderabad,Bhuvneshwar,SRH,13,13,3,0,100.0,0,14,6,1,14.0
+41,25-Apr-24,Hyderabad,Yash Dayal,RCB,0,0,0,0,0.0,1,17,18,0,5.67
+41,25-Apr-24,Hyderabad,Shahbaz Ahmed,SRH,40,37,1,1,108.11,0,14,18,0,4.67
+41,25-Apr-24,Hyderabad,T Natarajan,SRH,0,0,0,0,0.0,2,39,24,0,9.75
+41,25-Apr-24,Hyderabad,Ferguson,RCB,0,0,0,0,0.0,0,28,12,0,14.0
+41,25-Apr-24,Hyderabad,Klaasen,SRH,7,2,0,1,350.0,0,0,0,1,0.0
+41,25-Apr-24,Hyderabad,Rajat Patidar,RCB,50,20,2,5,250.0,0,0,0,1,0.0
+41,25-Apr-24,Hyderabad,Karn Sharma,RCB,0,0,0,0,0.0,2,29,24,0,7.25
+41,25-Apr-24,Hyderabad,Cummins,SRH,31,15,1,3,206.67,1,55,24,1,13.75
+41,25-Apr-24,Hyderabad,Lomror,RCB,7,4,1,0,175.0,0,0,0,1,0.0
+41,25-Apr-24,Hyderabad,Head,SRH,1,3,0,0,33.33,0,0,0,1,0.0
+41,25-Apr-24,Hyderabad,Markram,SRH,7,8,1,0,87.5,0,0,0,1,0.0
+41,25-Apr-24,Hyderabad,Will Jacks,RCB,6,9,0,0,66.67,1,23,12,1,11.5
+41,25-Apr-24,Hyderabad,Green,RCB,37,20,5,0,185.0,2,12,12,0,6.0
+41,25-Apr-24,Hyderabad,Markande,SRH,0,0,0,0,0.0,1,42,18,0,14.0
+41,25-Apr-24,Hyderabad,du Plessis,RCB,25,12,3,1,208.33,0,0,0,1,0.0
+41,25-Apr-24,Hyderabad,Kohli,RCB,51,43,4,1,118.6,0,0,0,1,0.0
+41,25-Apr-24,Hyderabad,Siraj,RCB,0,0,0,0,0.0,0,20,24,0,5.0
+41,25-Apr-24,Hyderabad,Abhishek Sharma,SRH,31,13,3,2,238.46,0,10,6,1,10.0
+41,25-Apr-24,Hyderabad,Abdul Samad,SRH,10,6,0,1,166.67,0,0,0,1,0.0
+42,26-Apr-24,Kolkata,Russell,KKR,24,12,2,2,200.0,0,36,12,1,18.0
+42,26-Apr-24,Kolkata,Shreyas Iyer,KKR,28,10,1,3,280.0,0,0,0,1,0.0
+42,26-Apr-24,Kolkata,Rossouw,PBKS,26,16,1,2,162.5,0,0,0,1,0.0
+42,26-Apr-24,Kolkata,Harpreet Brar,PBKS,0,0,0,0,0.0,0,21,12,0,10.5
+42,26-Apr-24,Kolkata,Harshit Rana,KKR,0,0,0,0,0.0,0,61,24,0,15.25
+42,26-Apr-24,Kolkata,Rinku Singh,KKR,5,4,1,0,125.0,0,0,0,1,0.0
+42,26-Apr-24,Kolkata,Prabhsimran,PBKS,54,20,4,5,270.0,0,0,0,1,0.0
+42,26-Apr-24,Kolkata,Shashank Singh,PBKS,68,28,2,8,242.86,0,0,0,0,0.0
+42,26-Apr-24,Kolkata,Sam Curran,PBKS,0,0,0,0,0.0,1,60,24,0,15.0
+42,26-Apr-24,Kolkata,Narine,KKR,71,32,9,4,221.88,1,24,24,1,6.0
+42,26-Apr-24,Kolkata,Venkatesh Iyer,KKR,39,23,3,2,169.57,0,0,0,1,0.0
+42,26-Apr-24,Kolkata,Ramandeep Singh,KKR,6,3,0,1,200.0,0,9,4,0,13.5
+42,26-Apr-24,Kolkata,Rahul Chahar,PBKS,0,0,0,0,0.0,1,33,24,0,8.25
+42,26-Apr-24,Kolkata,Chakaravarthy,KKR,0,0,0,0,0.0,0,46,18,0,15.33
+42,26-Apr-24,Kolkata,Arshdeep Singh,PBKS,0,0,0,0,0.0,2,43,24,0,10.75
+42,26-Apr-24,Kolkata,Rabada,PBKS,0,0,0,0,0.0,0,51,18,0,17.0
+42,26-Apr-24,Kolkata,Bairstow,PBKS,108,48,8,9,225.0,0,0,0,0,0.0
+42,26-Apr-24,Kolkata,Chameera,KKR,0,0,0,0,0.0,0,48,18,0,16.0
+42,26-Apr-24,Kolkata,Philip Salt,KKR,75,36,6,6,208.33,0,0,0,1,0.0
+42,26-Apr-24,Kolkata,Anukul Roy,KKR,0,0,0,0,0.0,0,36,12,0,18.0
+42,26-Apr-24,Kolkata,Harshal Patel,PBKS,0,0,0,0,0.0,1,48,18,0,16.0
+43,27-Apr-24,Delhi,Hardik Pandya,MI,46,24,4,3,191.67,0,41,12,1,20.5
+43,27-Apr-24,Delhi,Ishan Kishan,MI,20,14,4,0,142.86,0,0,0,1,0.0
+43,27-Apr-24,Delhi,Tilak Varma,MI,63,32,4,4,196.88,0,0,0,1,0.0
+43,27-Apr-24,Delhi,N Thushara,MI,0,0,0,0,0.0,0,56,24,0,14.0
+43,27-Apr-24,Delhi,Rasikh Salam,DC,0,0,0,0,0.0,3,33,24,0,8.25
+43,27-Apr-24,Delhi,Mukesh Kumar,DC,0,0,0,0,0.0,3,59,24,0,14.75
+43,27-Apr-24,Delhi,Nehal Wadhera,MI,4,2,1,0,200.0,0,0,0,1,0.0
+43,27-Apr-24,Delhi,Tristan Stubbs,DC,48,25,6,2,192.0,0,0,0,0,0.0
+43,27-Apr-24,Delhi,Chawla,MI,10,4,1,1,250.0,1,36,24,1,9.0
+43,27-Apr-24,Delhi,Wood,MI,9,3,0,1,300.0,1,68,24,0,17.0
+43,27-Apr-24,Delhi,Suryakumar Yadav,MI,26,13,3,2,200.0,0,0,0,1,0.0
+43,27-Apr-24,Delhi,Williams,DC,0,0,0,0,0.0,0,34,18,0,11.33
+43,27-Apr-24,Delhi,Nabi,MI,7,4,0,1,175.0,1,20,12,1,10.0
+43,27-Apr-24,Delhi,Shai Hope,DC,41,17,0,5,241.18,0,0,0,1,0.0
+43,27-Apr-24,Delhi,Tim David,MI,37,17,2,3,217.65,0,0,0,1,0.0
+43,27-Apr-24,Delhi,Axar,DC,11,6,0,1,183.33,0,24,12,0,12.0
+43,27-Apr-24,Delhi,Fraser-McGurk,DC,84,26,11,6,323.08,0,0,0,1,0.0
+43,27-Apr-24,Delhi,Abishek Porel,DC,36,27,3,1,133.33,0,0,0,1,0.0
+43,27-Apr-24,Delhi,Kuldeep Yadav,DC,0,0,0,0,0.0,0,47,18,0,15.67
+43,27-Apr-24,Delhi,Khaleel Ahmed,DC,0,0,0,0,0.0,2,45,24,0,11.25
+43,27-Apr-24,Delhi,Rohit,MI,8,7,1,0,114.29,0,0,0,1,0.0
+43,27-Apr-24,Delhi,Bumrah,MI,0,0,0,0,0.0,1,35,24,0,8.75
+43,27-Apr-24,Delhi,Pant,DC,29,19,2,2,152.63,0,0,0,1,0.0
+44,27-Apr-24,Lucknow,Mishra,LSG,0,0,0,0,0.0,1,20,12,0,10.0
+44,27-Apr-24,Lucknow,Sandeep Sharma,RR,0,0,0,0,0.0,2,31,24,0,7.75
+44,27-Apr-24,Lucknow,Riyan Parag,RR,14,11,0,1,127.27,0,0,0,1,0.0
+44,27-Apr-24,Lucknow,Ayush Badoni,LSG,18,13,1,0,138.46,0,0,0,0,0.0
+44,27-Apr-24,Lucknow,Buttler,RR,34,18,4,1,188.89,0,0,0,1,0.0
+44,27-Apr-24,Lucknow,Ashwin,RR,0,0,0,0,0.0,1,39,24,0,9.75
+44,27-Apr-24,Lucknow,Mohsin Khan,LSG,0,0,0,0,0.0,0,52,24,0,13.0
+44,27-Apr-24,Lucknow,Yash Thakur,LSG,0,0,0,0,0.0,1,49,24,0,12.25
+44,27-Apr-24,Lucknow,Boult,RR,0,0,0,0,0.0,1,41,24,0,10.25
+44,27-Apr-24,Lucknow,Matt Henry,LSG,0,0,0,0,0.0,0,32,18,0,10.67
+44,27-Apr-24,Lucknow,Avesh Khan,RR,0,0,0,0,0.0,1,42,24,0,10.5
+44,27-Apr-24,Lucknow,Pooran,LSG,11,11,1,0,100.0,0,0,0,1,0.0
+44,27-Apr-24,Lucknow,Rahul,LSG,76,47,8,2,161.7,0,0,0,1,0.0
+44,27-Apr-24,Lucknow,Jaiswal,RR,24,18,3,1,133.33,0,0,0,1,0.0
+44,27-Apr-24,Lucknow,Dhruv Jurel,RR,52,34,5,2,152.94,0,0,0,0,0.0
+44,27-Apr-24,Lucknow,Stoinis,LSG,0,4,0,0,0.0,1,3,6,1,3.0
+44,27-Apr-24,Lucknow,Hooda,LSG,50,31,7,0,161.29,0,0,0,1,0.0
+44,27-Apr-24,Lucknow,de Kock,LSG,8,3,2,0,266.67,0,0,0,1,0.0
+44,27-Apr-24,Lucknow,Samson,RR,71,33,7,4,215.15,0,0,0,0,0.0
+44,27-Apr-24,Lucknow,Krunal Pandya,LSG,15,11,1,0,136.36,0,24,24,0,6.0
+44,27-Apr-24,Lucknow,Chahal,RR,0,0,0,0,0.0,0,41,24,0,10.25
+44,27-Apr-24,Lucknow,Ravi Bishnoi,LSG,0,0,0,0,0.0,0,16,6,0,16.0
+45,28-Apr-24,Ahmedabad,Noor Ahmad,GT,0,0,0,0,0.0,0,43,24,0,10.75
+45,28-Apr-24,Ahmedabad,Sai Kishore,GT,0,0,0,0,0.0,1,30,18,0,10.0
+45,28-Apr-24,Ahmedabad,Miller,GT,26,19,2,1,136.84,0,0,0,0,0.0
+45,28-Apr-24,Ahmedabad,Shahrukh Khan,GT,58,30,3,5,193.33,0,0,0,1,0.0
+45,28-Apr-24,Ahmedabad,Yash Dayal,RCB,0,0,0,0,0.0,0,34,24,0,8.5
+45,28-Apr-24,Ahmedabad,Swapnil Singh,RCB,0,0,0,0,0.0,1,23,18,0,7.67
+45,28-Apr-24,Ahmedabad,Saha,GT,5,4,1,0,125.0,0,0,0,1,0.0
+45,28-Apr-24,Ahmedabad,Sai Sudharsan,GT,84,48,8,4,175.0,0,0,0,0,0.0
+45,28-Apr-24,Ahmedabad,Karn Sharma,RCB,0,0,0,0,0.0,0,38,18,0,12.67
+45,28-Apr-24,Ahmedabad,Rashid Khan,GT,0,0,0,0,0.0,0,51,24,0,12.75
+45,28-Apr-24,Ahmedabad,Warrier,GT,0,0,0,0,0.0,0,15,6,0,15.0
+45,28-Apr-24,Ahmedabad,Will Jacks,RCB,100,40,5,10,250.0,0,0,0,0,0.0
+45,28-Apr-24,Ahmedabad,Green,RCB,0,0,0,0,0.0,0,42,18,0,14.0
+45,28-Apr-24,Ahmedabad,Maxwell,RCB,0,0,0,0,0.0,1,28,18,0,9.33
+45,28-Apr-24,Ahmedabad,Siraj,RCB,0,0,0,0,0.0,1,33,24,0,8.25
+45,28-Apr-24,Ahmedabad,du Plessis,RCB,24,12,1,3,200.0,0,0,0,1,0.0
+45,28-Apr-24,Ahmedabad,Kohli,RCB,70,44,6,3,159.09,0,0,0,0,0.0
+45,28-Apr-24,Ahmedabad,Shubman Gill,GT,16,19,1,0,84.21,0,0,0,1,0.0
+45,28-Apr-24,Ahmedabad,Azmatullah,GT,0,0,0,0,0.0,0,18,12,0,9.0
+45,28-Apr-24,Ahmedabad,Mohit Sharma,GT,0,0,0,0,0.0,0,41,12,0,20.5
+46,28-Apr-24,Chennai,Unadkat,SRH,1,2,0,0,50.0,1,38,24,1,9.5
+46,28-Apr-24,Chennai,Anmolpreet Singh,SRH,0,1,0,0,0.0,0,0,0,1,0.0
+46,28-Apr-24,Chennai,Pathirana,CSK,0,0,0,0,0.0,2,17,12,0,8.5
+46,28-Apr-24,Chennai,Nitish Reddy,SRH,15,15,0,0,100.0,0,8,6,1,8.0
+46,28-Apr-24,Chennai,Bhuvneshwar,SRH,4,3,0,0,133.33,1,38,24,0,9.5
+46,28-Apr-24,Chennai,Jadeja,CSK,0,0,0,0,0.0,1,22,24,0,5.5
+46,28-Apr-24,Chennai,Thakur,CSK,0,0,0,0,0.0,1,27,24,0,6.75
+46,28-Apr-24,Chennai,Shahbaz Ahmed,SRH,7,5,1,0,140.0,0,33,18,1,11.0
+46,28-Apr-24,Chennai,T Natarajan,SRH,0,0,0,0,0.0,1,43,24,0,10.75
+46,28-Apr-24,Chennai,Tushar Deshpande,CSK,0,0,0,0,0.0,4,27,18,0,9.0
+46,28-Apr-24,Chennai,Klaasen,SRH,20,21,0,1,95.24,0,0,0,1,0.0
+46,28-Apr-24,Chennai,Dhoni,CSK,5,2,1,0,250.0,0,0,0,0,0.0
+46,28-Apr-24,Chennai,Gaikwad,CSK,98,54,10,3,181.48,0,0,0,1,0.0
+46,28-Apr-24,Chennai,Cummins,SRH,5,7,1,0,71.43,0,49,24,1,12.25
+46,28-Apr-24,Chennai,Shivam Dube,CSK,39,20,1,4,195.0,0,0,0,0,0.0
+46,28-Apr-24,Chennai,Head,SRH,13,7,1,1,185.71,0,0,0,1,0.0
+46,28-Apr-24,Chennai,Markram,SRH,32,25,4,0,128.0,0,0,0,1,0.0
+46,28-Apr-24,Chennai,Mustafizur,CSK,0,0,0,0,0.0,2,19,17,0,6.71
+46,28-Apr-24,Chennai,Chahar,CSK,0,0,0,0,0.0,0,22,18,0,7.33
+46,28-Apr-24,Chennai,Mitchell,CSK,52,32,7,1,162.5,0,0,0,1,0.0
+46,28-Apr-24,Chennai,Abhishek Sharma,SRH,15,9,1,1,166.67,0,0,0,1,0.0
+46,28-Apr-24,Chennai,Rahane,CSK,9,12,1,0,75.0,0,0,0,1,0.0
+46,28-Apr-24,Chennai,Abdul Samad,SRH,19,18,1,1,105.56,0,0,0,1,0.0
+47,29-Apr-24,Kolkata,Russell,KKR,0,0,0,0,0.0,0,10,6,0,10.0
+47,29-Apr-24,Kolkata,Shreyas Iyer,KKR,33,23,3,1,143.48,0,0,0,0,0.0
+47,29-Apr-24,Kolkata,Harshit Rana,KKR,0,0,0,0,0.0,2,28,24,0,7.0
+47,29-Apr-24,Kolkata,Vaibhav Arora,KKR,0,0,0,0,0.0,2,29,24,0,7.25
+47,29-Apr-24,Kolkata,Rinku Singh,KKR,11,11,1,0,100.0,0,0,0,1,0.0
+47,29-Apr-24,Kolkata,Narine,KKR,15,9,3,0,166.67,1,24,24,1,6.0
+47,29-Apr-24,Kolkata,Pant,DC,27,20,2,1,135.0,0,0,0,1,0.0
+47,29-Apr-24,Kolkata,Tristan Stubbs,DC,4,7,0,0,57.14,0,0,0,1,0.0
+47,29-Apr-24,Kolkata,Venkatesh Iyer,KKR,26,23,2,1,113.04,0,0,0,0,0.0
+47,29-Apr-24,Kolkata,Williams,DC,1,2,0,0,50.0,1,39,18,0,13.0
+47,29-Apr-24,Kolkata,Chakaravarthy,KKR,0,0,0,0,0.0,3,16,24,0,4.0
+47,29-Apr-24,Kolkata,Shai Hope,DC,6,3,0,1,200.0,0,0,0,1,0.0
+47,29-Apr-24,Kolkata,Axar,DC,15,21,2,0,71.43,2,25,24,1,6.25
+47,29-Apr-24,Kolkata,Prithvi Shaw,DC,13,7,3,0,185.71,0,0,0,1,0.0
+47,29-Apr-24,Kolkata,Philip Salt,KKR,68,33,7,5,206.06,0,0,0,1,0.0
+47,29-Apr-24,Kolkata,Fraser-McGurk,DC,12,6,1,1,200.0,0,0,0,1,0.0
+47,29-Apr-24,Kolkata,Abishek Porel,DC,18,15,2,1,120.0,0,0,0,1,0.0
+47,29-Apr-24,Kolkata,Kushagra,DC,1,3,0,0,33.33,0,0,0,1,0.0
+47,29-Apr-24,Kolkata,Kuldeep Yadav,DC,35,26,5,1,134.62,0,34,24,0,8.5
+47,29-Apr-24,Kolkata,Starc,KKR,0,0,0,0,0.0,1,43,18,0,14.33
+47,29-Apr-24,Kolkata,Khaleel Ahmed,DC,0,0,0,0,0.0,0,28,18,0,9.33
+47,29-Apr-24,Kolkata,Rasikh Salam,DC,8,10,1,0,80.0,0,30,15,1,12.0
+48,30-Apr-24,Lucknow,Hardik Pandya,MI,0,1,0,0,0.0,2,26,24,1,6.5
+48,30-Apr-24,Lucknow,Ishan Kishan,MI,32,35,3,0,91.43,0,0,0,1,0.0
+48,30-Apr-24,Lucknow,Tilak Varma,MI,7,11,1,0,63.64,0,0,0,1,0.0
+48,30-Apr-24,Lucknow,Arshin Kulkarni,LSG,0,1,0,0,0.0,0,0,0,1,0.0
+48,30-Apr-24,Lucknow,N Thushara,MI,0,0,0,0,0.0,1,30,24,0,7.5
+48,30-Apr-24,Lucknow,Ayush Badoni,LSG,6,6,1,0,100.0,0,0,0,1,0.0
+48,30-Apr-24,Lucknow,Mohsin Khan,LSG,0,0,0,0,0.0,2,36,24,0,9.0
+48,30-Apr-24,Lucknow,Naveen-ul-Haq,LSG,0,0,0,0,0.0,1,15,23,0,3.91
+48,30-Apr-24,Lucknow,Mayank Yadav,LSG,0,0,0,0,0.0,1,31,19,0,9.79
+48,30-Apr-24,Lucknow,Nehal Wadhera,MI,46,41,4,2,112.2,0,0,0,1,0.0
+48,30-Apr-24,Lucknow,Chawla,MI,0,0,0,0,0.0,0,23,18,0,7.67
+48,30-Apr-24,Lucknow,Suryakumar Yadav,MI,10,6,0,1,166.67,0,0,0,1,0.0
+48,30-Apr-24,Lucknow,Nabi,MI,1,2,0,0,50.0,1,16,8,1,12.0
+48,30-Apr-24,Lucknow,Tim David,MI,35,17,3,1,205.88,0,0,0,0,0.0
+48,30-Apr-24,Lucknow,Pooran,LSG,14,14,1,0,100.0,0,0,0,0,0.0
+48,30-Apr-24,Lucknow,Rahul,LSG,28,22,3,1,127.27,0,0,0,1,0.0
+48,30-Apr-24,Lucknow,Turner,LSG,5,9,0,0,55.56,0,0,0,1,0.0
+48,30-Apr-24,Lucknow,Stoinis,LSG,62,45,7,2,137.78,1,19,18,1,6.33
+48,30-Apr-24,Lucknow,Gerald Coetzee,MI,1,2,0,0,50.0,1,29,18,0,9.67
+48,30-Apr-24,Lucknow,Hooda,LSG,18,18,2,0,100.0,0,13,12,1,6.5
+48,30-Apr-24,Lucknow,Rohit,MI,4,5,1,0,80.0,0,0,0,1,0.0
+48,30-Apr-24,Lucknow,Bumrah,MI,0,0,0,0,0.0,0,17,24,0,4.25
+48,30-Apr-24,Lucknow,Krunal Pandya,LSG,1,1,0,0,100.0,0,0,0,0,0.0
+48,30-Apr-24,Lucknow,Ravi Bishnoi,LSG,0,0,0,0,0.0,1,28,24,0,7.0
+49,1-May-24,Chennai,Rossouw,PBKS,43,23,5,2,186.96,0,0,0,1,0.0
+49,1-May-24,Chennai,Harpreet Brar,PBKS,0,0,0,0,0.0,2,17,24,0,4.25
+49,1-May-24,Chennai,Harshal Patel,PBKS,0,0,0,0,0.0,0,12,6,0,12.0
+49,1-May-24,Chennai,Prabhsimran,PBKS,13,10,1,1,130.0,0,0,0,1,0.0
+49,1-May-24,Chennai,Shashank Singh,PBKS,25,26,1,1,96.15,0,0,0,0,0.0
+49,1-May-24,Chennai,Sam Curran,PBKS,26,18,3,0,144.44,0,37,18,0,12.33
+49,1-May-24,Chennai,Jadeja,CSK,2,4,0,0,50.0,0,22,18,1,7.33
+49,1-May-24,Chennai,Thakur,CSK,0,0,0,0,0.0,1,48,22,0,13.09
+49,1-May-24,Chennai,Rahul Chahar,PBKS,0,0,0,0,0.0,2,16,24,0,4.0
+49,1-May-24,Chennai,Dhoni,CSK,14,11,1,1,127.27,0,0,0,1,0.0
+49,1-May-24,Chennai,Gaikwad,CSK,62,47,5,2,131.91,0,0,0,1,0.0
+49,1-May-24,Chennai,Moeen Ali,CSK,15,9,1,1,166.67,0,22,12,1,11.0
+49,1-May-24,Chennai,Sameer Rizvi,CSK,21,23,1,0,91.3,0,0,0,1,0.0
+49,1-May-24,Chennai,Arshdeep Singh,PBKS,0,0,0,0,0.0,1,52,24,0,13.0
+49,1-May-24,Chennai,Shivam Dube,CSK,0,1,0,0,0.0,1,14,6,1,14.0
+49,1-May-24,Chennai,Rabada,PBKS,0,0,0,0,0.0,1,23,24,0,5.75
+49,1-May-24,Chennai,Richard Gleeson,CSK,0,0,0,0,0.0,1,30,23,0,7.83
+49,1-May-24,Chennai,Bairstow,PBKS,46,30,7,1,153.33,0,0,0,1,0.0
+49,1-May-24,Chennai,Chahar,CSK,0,0,0,0,0.0,0,4,2,0,12.0
+49,1-May-24,Chennai,Mitchell,CSK,1,1,0,0,100.0,0,0,0,0,0.0
+49,1-May-24,Chennai,Rahane,CSK,29,24,5,0,120.83,0,0,0,1,0.0
+49,1-May-24,Chennai,Mustafizur,CSK,0,0,0,0,0.0,0,22,24,0,5.5
+50,2-May-24,Hyderabad,Unadkat,SRH,0,0,0,0,0.0,0,23,12,0,11.5
+50,2-May-24,Hyderabad,Sandeep Sharma,RR,0,0,0,0,0.0,1,31,24,0,7.75
+50,2-May-24,Hyderabad,Anmolpreet Singh,SRH,5,5,1,0,100.0,0,0,0,1,0.0
+50,2-May-24,Hyderabad,Riyan Parag,RR,77,48,8,4,160.42,0,0,0,1,0.0
+50,2-May-24,Hyderabad,Buttler,RR,0,1,0,0,0.0,0,0,0,1,0.0
+50,2-May-24,Hyderabad,Ashwin,RR,2,2,0,0,100.0,0,35,24,0,8.75
+50,2-May-24,Hyderabad,Nitish Reddy,SRH,76,42,3,8,180.95,0,12,6,0,12.0
+50,2-May-24,Hyderabad,Bhuvneshwar,SRH,0,0,0,0,0.0,3,41,24,0,10.25
+50,2-May-24,Hyderabad,T Natarajan,SRH,0,0,0,0,0.0,2,35,24,0,8.75
+50,2-May-24,Hyderabad,Shahbaz Ahmed,SRH,0,0,0,0,0.0,0,11,6,0,11.0
+50,2-May-24,Hyderabad,Boult,RR,0,0,0,0,0.0,0,33,24,0,8.25
+50,2-May-24,Hyderabad,Klaasen,SRH,42,19,3,3,221.05,0,0,0,0,0.0
+50,2-May-24,Hyderabad,Powell,RR,27,15,3,1,180.0,0,0,0,1,0.0
+50,2-May-24,Hyderabad,Marco Jansen,SRH,0,0,0,0,0.0,0,44,24,0,11.0
+50,2-May-24,Hyderabad,Avesh Khan,RR,0,0,0,0,0.0,2,39,24,0,9.75
+50,2-May-24,Hyderabad,Cummins,SRH,0,0,0,0,0.0,2,34,24,0,8.5
+50,2-May-24,Hyderabad,Head,SRH,58,44,6,3,131.82,0,0,0,1,0.0
+50,2-May-24,Hyderabad,Jaiswal,RR,67,39,7,2,171.79,0,0,0,1,0.0
+50,2-May-24,Hyderabad,Dhruv Jurel,RR,1,3,0,0,33.33,0,0,0,1,0.0
+50,2-May-24,Hyderabad,Samson,RR,0,3,0,0,0.0,0,0,0,1,0.0
+50,2-May-24,Hyderabad,Abhishek Sharma,SRH,12,10,0,1,120.0,0,0,0,1,0.0
+50,2-May-24,Hyderabad,Hetmyer,RR,13,9,1,1,144.44,0,0,0,1,0.0
+50,2-May-24,Hyderabad,Chahal,RR,0,0,0,0,0.0,0,62,24,0,15.5
+51,3-May-24,Mumbai,Russell,KKR,7,2,0,1,350.0,2,30,25,1,7.2
+51,3-May-24,Mumbai,Angkrish Raghuvanshi,KKR,13,6,0,2,216.67,0,0,0,1,0.0
+51,3-May-24,Mumbai,Ishan Kishan,MI,13,7,1,1,185.71,0,0,0,1,0.0
+51,3-May-24,Mumbai,Vaibhav Arora,KKR,0,0,0,0,0.0,0,35,19,0,11.05
+51,3-May-24,Mumbai,Naman Dhir,MI,11,11,2,0,100.0,0,25,18,1,8.33
+51,3-May-24,Mumbai,Shreyas Iyer,KKR,6,4,1,0,150.0,0,0,0,1,0.0
+51,3-May-24,Mumbai,Rinku Singh,KKR,9,8,2,0,112.5,0,0,0,1,0.0
+51,3-May-24,Mumbai,Manish Pandey,KKR,42,30,2,2,140.0,0,0,0,1,0.0
+51,3-May-24,Mumbai,Tilak Varma,MI,4,6,0,0,66.67,0,0,0,1,0.0
+51,3-May-24,Mumbai,Hardik Pandya,MI,1,3,0,0,33.33,2,44,24,1,11.0
+51,3-May-24,Mumbai,N Thushara,MI,0,0,0,0,0.0,3,42,24,0,10.5
+51,3-May-24,Mumbai,Narine,KKR,8,8,0,1,100.0,2,22,24,1,5.5
+51,3-May-24,Mumbai,Nehal Wadhera,MI,6,11,1,0,54.55,0,0,0,1,0.0
+51,3-May-24,Mumbai,Chawla,MI,0,1,0,0,0.0,1,15,18,1,5.0
+51,3-May-24,Mumbai,Venkatesh Iyer,KKR,70,52,6,3,134.62,0,0,0,1,0.0
+51,3-May-24,Mumbai,Ramandeep Singh,KKR,2,4,0,0,50.0,0,0,0,1,0.0
+51,3-May-24,Mumbai,Suryakumar Yadav,MI,56,35,6,2,160.0,0,0,0,1,0.0
+51,3-May-24,Mumbai,Chakaravarthy,KKR,0,0,0,0,0.0,2,22,24,0,5.5
+51,3-May-24,Mumbai,Tim David,MI,24,21,1,1,114.29,0,0,0,1,0.0
+51,3-May-24,Mumbai,Philip Salt,KKR,5,3,1,0,166.67,0,0,0,1,0.0
+51,3-May-24,Mumbai,Gerald Coetzee,MI,8,7,0,1,114.29,0,24,12,1,12.0
+51,3-May-24,Mumbai,Starc,KKR,0,2,0,0,0.0,4,33,23,1,8.61
+51,3-May-24,Mumbai,Rohit,MI,11,12,0,1,91.67,0,0,0,1,0.0
+51,3-May-24,Mumbai,Bumrah,MI,1,1,0,0,100.0,3,18,23,0,4.7
+52,4-May-24,Bengaluru,Noor Ahmad,GT,0,0,0,0,0.0,2,23,24,0,5.75
+52,4-May-24,Bengaluru,Vijaykumar Vyshak,RCB,0,0,0,0,0.0,2,23,21,0,6.57
+52,4-May-24,Bengaluru,Karthik,RCB,21,12,3,0,175.0,0,0,0,0,0.0
+52,4-May-24,Bengaluru,Miller,GT,30,20,3,2,150.0,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Rahul Tewatia,GT,35,21,5,1,166.67,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Shahrukh Khan,GT,37,24,5,1,154.17,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Shankar,GT,10,7,2,0,142.86,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Swapnil Singh,RCB,15,9,2,1,166.67,0,1,6,0,1.0
+52,4-May-24,Bengaluru,Yash Dayal,RCB,0,0,0,0,0.0,2,21,24,0,5.25
+52,4-May-24,Bengaluru,Saha,GT,1,7,0,0,14.29,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Joshua Little,GT,0,0,0,0,0.0,4,45,24,0,11.25
+52,4-May-24,Bengaluru,Rajat Patidar,RCB,2,3,0,0,66.67,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Sai Sudharsan,GT,6,14,0,0,42.86,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Karn Sharma,RCB,0,0,0,0,0.0,1,42,18,0,14.0
+52,4-May-24,Bengaluru,Rashid Khan,GT,18,14,2,1,128.57,0,25,10,1,15.0
+52,4-May-24,Bengaluru,Manav Suthar,GT,1,2,0,0,50.0,0,26,12,1,13.0
+52,4-May-24,Bengaluru,Will Jacks,RCB,1,3,0,0,33.33,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Maxwell,RCB,4,3,1,0,133.33,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Green,RCB,1,2,0,0,50.0,1,28,24,1,7.0
+52,4-May-24,Bengaluru,Siraj,RCB,0,0,0,0,0.0,2,29,24,0,7.25
+52,4-May-24,Bengaluru,du Plessis,RCB,64,23,10,3,278.26,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Kohli,RCB,42,27,2,4,155.56,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Shubman Gill,GT,2,7,0,0,28.57,0,0,0,1,0.0
+52,4-May-24,Bengaluru,Mohit Sharma,GT,0,1,0,0,0.0,0,32,12,1,16.0
+53,5-May-24,Dharamsala,Harpreet Brar,PBKS,17,13,2,0,130.77,0,19,6,0,19.0
+53,5-May-24,Dharamsala,Rossouw,PBKS,0,3,0,0,0.0,0,0,0,1,0.0
+53,5-May-24,Dharamsala,Harshal Patel,PBKS,12,13,1,1,92.31,3,24,24,1,6.0
+53,5-May-24,Dharamsala,Prabhsimran,PBKS,30,23,2,2,130.43,0,0,0,1,0.0
+53,5-May-24,Dharamsala,Jitesh Sharma,PBKS,0,1,0,0,0.0,0,0,0,1,0.0
+53,5-May-24,Dharamsala,Shashank Singh,PBKS,27,20,4,0,135.0,0,0,0,1,0.0
+53,5-May-24,Dharamsala,Sam Curran,PBKS,7,11,0,0,63.64,1,34,24,1,8.5
+53,5-May-24,Dharamsala,Ashutosh Sharma,PBKS,3,10,0,0,30.0,0,0,0,1,0.0
+53,5-May-24,Dharamsala,Jadeja,CSK,43,26,3,2,165.38,3,20,24,1,5.0
+53,5-May-24,Dharamsala,Santner,CSK,11,11,1,0,100.0,1,10,18,1,3.33
+53,5-May-24,Dharamsala,Thakur,CSK,17,11,2,1,154.55,1,12,12,1,6.0
+53,5-May-24,Dharamsala,Tushar Deshpande,CSK,0,1,0,0,0.0,2,35,24,0,8.75
+53,5-May-24,Dharamsala,Simarjeet Singh,CSK,0,0,0,0,0.0,2,16,18,0,5.33
+53,5-May-24,Dharamsala,Rahul Chahar,PBKS,16,10,2,1,160.0,3,23,24,1,5.75
+53,5-May-24,Dharamsala,Dhoni,CSK,0,1,0,0,0.0,0,0,0,1,0.0
+53,5-May-24,Dharamsala,Gaikwad,CSK,32,21,4,1,152.38,0,0,0,1,0.0
+53,5-May-24,Dharamsala,Moeen Ali,CSK,17,20,2,0,85.0,0,0,0,1,0.0
+53,5-May-24,Dharamsala,Arshdeep Singh,PBKS,0,0,0,0,0.0,2,42,24,0,10.5
+53,5-May-24,Dharamsala,Shivam Dube,CSK,0,1,0,0,0.0,0,0,0,1,0.0
+53,5-May-24,Dharamsala,Richard Gleeson,CSK,2,2,0,0,100.0,0,41,24,0,10.25
+53,5-May-24,Dharamsala,Rabada,PBKS,11,10,0,1,110.0,0,24,18,0,8.0
+53,5-May-24,Dharamsala,Bairstow,PBKS,7,6,1,0,116.67,0,0,0,1,0.0
+53,5-May-24,Dharamsala,Mitchell,CSK,30,19,2,1,157.89,0,0,0,1,0.0
+53,5-May-24,Dharamsala,Rahane,CSK,9,7,1,0,128.57,0,0,0,1,0.0
+54,5-May-24,Lucknow,Russell,KKR,12,8,1,1,150.0,2,16,12,1,8.0
+54,5-May-24,Lucknow,Angkrish Raghuvanshi,KKR,32,26,3,1,123.08,0,0,0,1,0.0
+54,5-May-24,Lucknow,Shreyas Iyer,KKR,23,15,3,0,153.33,0,0,0,1,0.0
+54,5-May-24,Lucknow,Harshit Rana,KKR,0,0,0,0,0.0,3,24,19,0,7.58
+54,5-May-24,Lucknow,Vaibhav Arora,KKR,0,0,0,0,0.0,0,21,12,0,10.5
+54,5-May-24,Lucknow,Rinku Singh,KKR,16,11,2,0,145.45,0,0,0,1,0.0
+54,5-May-24,Lucknow,Arshin Kulkarni,LSG,9,7,2,0,128.57,0,0,0,1,0.0
+54,5-May-24,Lucknow,Ayush Badoni,LSG,15,12,0,1,125.0,0,0,0,1,0.0
+54,5-May-24,Lucknow,Narine,KKR,81,39,6,7,207.69,1,22,24,1,5.5
+54,5-May-24,Lucknow,Mohsin Khan,LSG,0,0,0,0,0.0,0,28,12,0,14.0
+54,5-May-24,Lucknow,Naveen-ul-Haq,LSG,0,0,0,0,0.0,3,49,24,0,12.25
+54,5-May-24,Lucknow,Yash Thakur,LSG,0,0,0,0,0.0,1,45,24,0,11.25
+54,5-May-24,Lucknow,Venkatesh Iyer,KKR,1,1,0,0,100.0,0,0,0,0,0.0
+54,5-May-24,Lucknow,Ramandeep Singh,KKR,25,6,1,3,416.67,0,0,0,0,0.0
+54,5-May-24,Lucknow,Chakaravarthy,KKR,0,0,0,0,0.0,3,30,18,0,10.0
+54,5-May-24,Lucknow,Pooran,LSG,10,8,0,1,125.0,0,0,0,1,0.0
+54,5-May-24,Lucknow,Rahul,LSG,25,21,3,0,119.05,0,0,0,1,0.0
+54,5-May-24,Lucknow,Turner,LSG,16,9,0,2,177.78,0,0,0,1,0.0
+54,5-May-24,Lucknow,Philip Salt,KKR,32,14,5,1,228.57,0,0,0,1,0.0
+54,5-May-24,Lucknow,Stoinis,LSG,36,21,4,2,171.43,0,29,12,1,14.5
+54,5-May-24,Lucknow,Hooda,LSG,5,3,1,0,166.67,0,0,0,1,0.0
+54,5-May-24,Lucknow,Yudhvir Singh,LSG,7,7,0,1,100.0,1,24,12,1,12.0
+54,5-May-24,Lucknow,Starc,KKR,0,0,0,0,0.0,1,22,12,0,11.0
+54,5-May-24,Lucknow,Krunal Pandya,LSG,5,6,0,0,83.33,0,26,12,1,13.0
+54,5-May-24,Lucknow,Ravi Bishnoi,LSG,2,3,0,0,66.67,1,33,24,1,8.25
+55,6-May-24,Mumbai,Naman Dhir,MI,0,9,0,0,0.0,0,0,0,1,0.0
+55,6-May-24,Mumbai,Hardik Pandya,MI,0,0,0,0,0.0,3,31,24,0,7.75
+55,6-May-24,Mumbai,Ishan Kishan,MI,9,7,2,0,128.57,0,0,0,1,0.0
+55,6-May-24,Mumbai,Tilak Varma,MI,37,32,6,0,115.62,0,0,0,0,0.0
+55,6-May-24,Mumbai,N Thushara,MI,0,0,0,0,0.0,0,42,24,0,10.5
+55,6-May-24,Mumbai,Nitish Reddy,SRH,20,15,2,0,133.33,0,16,12,1,8.0
+55,6-May-24,Mumbai,Sanvir Singh,SRH,8,7,0,0,114.29,0,0,0,0,0.0
+55,6-May-24,Mumbai,Bhuvneshwar,SRH,0,0,0,0,0.0,1,22,24,0,5.5
+55,6-May-24,Mumbai,Chawla,MI,0,0,0,0,0.0,3,33,24,0,8.25
+55,6-May-24,Mumbai,Shahbaz Ahmed,SRH,10,12,0,0,83.33,0,11,6,1,11.0
+55,6-May-24,Mumbai,T Natarajan,SRH,0,0,0,0,0.0,0,31,20,0,9.3
+55,6-May-24,Mumbai,Klaasen,SRH,2,4,0,0,50.0,0,0,0,1,0.0
+55,6-May-24,Mumbai,Suryakumar Yadav,MI,102,51,12,6,200.0,0,0,0,0,0.0
+55,6-May-24,Mumbai,Marco Jansen,SRH,17,12,1,1,141.67,1,45,18,1,15.0
+55,6-May-24,Mumbai,Cummins,SRH,35,16,2,2,218.75,1,35,24,0,8.75
+55,6-May-24,Mumbai,Head,SRH,48,28,7,1,171.43,0,0,0,1,0.0
+55,6-May-24,Mumbai,Mayank,SRH,5,6,1,0,83.33,0,0,0,1,0.0
+55,6-May-24,Mumbai,Anshul Kamboj,MI,0,0,0,0,0.0,1,42,24,0,10.5
+55,6-May-24,Mumbai,Rohit,MI,4,5,1,0,80.0,0,0,0,1,0.0
+55,6-May-24,Mumbai,Bumrah,MI,0,0,0,0,0.0,1,23,24,0,5.75
+55,6-May-24,Mumbai,Abhishek Sharma,SRH,11,16,0,1,68.75,0,0,0,1,0.0
+55,6-May-24,Mumbai,Abdul Samad,SRH,3,4,0,0,75.0,0,0,0,1,0.0
+56,7-May-24,Delhi,Gulbadin,DC,19,15,1,1,126.67,0,0,0,1,0.0
+56,7-May-24,Delhi,Sandeep Sharma,RR,0,0,0,0,0.0,1,42,24,0,10.5
+56,7-May-24,Delhi,Riyan Parag,RR,27,22,1,3,122.73,0,17,12,1,8.5
+56,7-May-24,Delhi,Ferreira,RR,1,3,0,0,33.33,0,0,0,1,0.0
+56,7-May-24,Delhi,Buttler,RR,19,17,2,1,111.76,0,0,0,1,0.0
+56,7-May-24,Delhi,Ashwin,RR,2,3,0,0,66.67,3,24,24,1,6.0
+56,7-May-24,Delhi,Pant,DC,15,13,0,1,115.38,0,0,0,1,0.0
+56,7-May-24,Delhi,Mukesh Kumar,DC,0,0,0,0,0.0,2,30,18,0,10.0
+56,7-May-24,Delhi,Tristan Stubbs,DC,41,20,3,3,205.0,0,0,0,1,0.0
+56,7-May-24,Delhi,Boult,RR,2,3,0,0,66.67,1,48,24,0,12.0
+56,7-May-24,Delhi,Powell,RR,13,10,1,1,130.0,0,0,0,1,0.0
+56,7-May-24,Delhi,Ishant,DC,0,0,0,0,0.0,0,34,18,0,11.33
+56,7-May-24,Delhi,Shai Hope,DC,1,1,0,0,100.0,0,0,0,1,0.0
+56,7-May-24,Delhi,Avesh Khan,RR,7,3,1,0,233.33,0,42,12,0,21.0
+56,7-May-24,Delhi,Shubham Dubey,RR,25,12,2,2,208.33,0,0,0,1,0.0
+56,7-May-24,Delhi,Axar,DC,15,10,1,1,150.0,1,25,18,1,8.33
+56,7-May-24,Delhi,Jaiswal,RR,4,2,1,0,200.0,0,0,0,1,0.0
+56,7-May-24,Delhi,Fraser-McGurk,DC,50,20,7,3,250.0,0,0,0,1,0.0
+56,7-May-24,Delhi,Abishek Porel,DC,65,36,7,3,180.56,0,0,0,1,0.0
+56,7-May-24,Delhi,Kuldeep Yadav,DC,5,2,1,0,250.0,2,25,24,0,6.25
+56,7-May-24,Delhi,Khaleel Ahmed,DC,0,0,0,0,0.0,2,43,24,0,10.75
+56,7-May-24,Delhi,Samson,RR,86,45,8,6,191.11,0,0,0,1,0.0
+56,7-May-24,Delhi,Chahal,RR,0,0,0,0,0.0,1,48,24,0,12.0
+56,7-May-24,Delhi,Rasikh Salam,DC,9,3,2,0,300.0,1,36,18,1,12.0
+57,8-May-24,Hyderabad,Unadkat,SRH,0,0,0,0,0.0,0,19,12,0,9.5
+57,8-May-24,Hyderabad,Ayush Badoni,LSG,55,30,9,0,183.33,0,19,6,0,19.0
+57,8-May-24,Hyderabad,Naveen-ul-Haq,LSG,0,0,0,0,0.0,0,37,12,0,18.5
+57,8-May-24,Hyderabad,Bhuvneshwar,SRH,0,0,0,0,0.0,2,12,24,0,3.0
+57,8-May-24,Hyderabad,Shahbaz Ahmed,SRH,0,0,0,0,0.0,0,9,12,0,4.5
+57,8-May-24,Hyderabad,T Natarajan,SRH,0,0,0,0,0.0,0,50,24,0,12.5
+57,8-May-24,Hyderabad,Yash Thakur,LSG,0,0,0,0,0.0,0,47,16,0,17.62
+57,8-May-24,Hyderabad,Pooran,LSG,48,26,6,1,184.62,0,0,0,0,0.0
+57,8-May-24,Hyderabad,Rahul,LSG,29,33,1,1,87.88,0,0,0,1,0.0
+57,8-May-24,Hyderabad,Cummins,SRH,0,0,0,0,0.0,1,47,24,0,11.75
+57,8-May-24,Hyderabad,Gowtham,LSG,0,0,0,0,0.0,0,29,12,0,14.5
+57,8-May-24,Hyderabad,Head,SRH,89,30,8,8,296.67,0,0,0,0,0.0
+57,8-May-24,Hyderabad,Stoinis,LSG,3,5,0,0,60.0,0,0,0,1,0.0
+57,8-May-24,Hyderabad,V Viyaskanth,SRH,0,0,0,0,0.0,0,27,24,0,6.75
+57,8-May-24,Hyderabad,de Kock,LSG,2,5,0,0,40.0,0,0,0,1,0.0
+57,8-May-24,Hyderabad,Abhishek Sharma,SRH,75,28,8,6,267.86,0,0,0,0,0.0
+57,8-May-24,Hyderabad,Krunal Pandya,LSG,24,21,0,2,114.29,0,0,0,1,0.0
+57,8-May-24,Hyderabad,Ravi Bishnoi,LSG,0,0,0,0,0.0,0,34,12,0,17.0
+58,9-May-24,Dharamsala,Rossouw,PBKS,61,27,9,3,225.93,0,0,0,1,0.0
+58,9-May-24,Dharamsala,Karthik,RCB,18,6,1,2,300.0,0,0,0,1,0.0
+58,9-May-24,Dharamsala,Prabhsimran,PBKS,6,4,1,0,150.0,0,0,0,1,0.0
+58,9-May-24,Dharamsala,Jitesh Sharma,PBKS,5,4,1,0,125.0,0,0,0,1,0.0
+58,9-May-24,Dharamsala,Shashank Singh,PBKS,37,19,4,2,194.74,0,0,0,1,0.0
+58,9-May-24,Dharamsala,Sam Curran,PBKS,22,16,2,0,137.5,1,49,18,1,16.33
+58,9-May-24,Dharamsala,Ashutosh Sharma,PBKS,8,5,0,1,160.0,0,0,0,1,0.0
+58,9-May-24,Dharamsala,Swapnil Singh,RCB,1,1,0,0,100.0,2,28,18,0,9.33
+58,9-May-24,Dharamsala,Yash Dayal,RCB,0,0,0,0,0.0,0,22,12,0,11.0
+58,9-May-24,Dharamsala,Ferguson,RCB,0,0,0,0,0.0,2,29,18,0,9.67
+58,9-May-24,Dharamsala,Rahul Chahar,PBKS,5,5,1,0,100.0,0,47,18,0,15.67
+58,9-May-24,Dharamsala,Rajat Patidar,RCB,55,23,3,6,239.13,0,0,0,1,0.0
+58,9-May-24,Dharamsala,Karn Sharma,RCB,0,0,0,0,0.0,2,36,18,0,12.0
+58,9-May-24,Dharamsala,Arshdeep Singh,PBKS,4,3,1,0,133.33,1,41,18,1,13.67
+58,9-May-24,Dharamsala,Kaverappa,PBKS,0,0,0,0,0.0,2,36,24,0,9.0
+58,9-May-24,Dharamsala,Lomror,RCB,0,2,0,0,0.0,0,0,0,1,0.0
+58,9-May-24,Dharamsala,Bairstow,PBKS,27,16,4,1,168.75,0,0,0,1,0.0
+58,9-May-24,Dharamsala,Livingstone,PBKS,0,2,0,0,0.0,0,28,18,1,9.33
+58,9-May-24,Dharamsala,Will Jacks,RCB,12,7,1,1,171.43,0,5,6,1,5.0
+58,9-May-24,Dharamsala,Green,RCB,46,27,5,1,170.37,0,16,6,1,16.0
+58,9-May-24,Dharamsala,Siraj,RCB,0,0,0,0,0.0,3,43,24,0,10.75
+58,9-May-24,Dharamsala,du Plessis,RCB,9,7,2,0,128.57,0,0,0,1,0.0
+58,9-May-24,Dharamsala,Kohli,RCB,92,47,7,6,195.74,0,0,0,1,0.0
+58,9-May-24,Dharamsala,Harshal Patel,PBKS,0,1,0,0,0.0,3,38,24,1,9.5
+59,10-May-24,Ahmedabad,Noor Ahmad,GT,0,0,0,0,0.0,0,25,12,0,12.5
+59,10-May-24,Ahmedabad,Miller,GT,16,11,1,0,145.45,0,0,0,0,0.0
+59,10-May-24,Ahmedabad,Shahrukh Khan,GT,2,3,0,0,66.67,0,0,0,1,0.0
+59,10-May-24,Ahmedabad,Kartik Tyagi,GT,0,0,0,0,0.0,0,51,24,0,12.75
+59,10-May-24,Ahmedabad,Jadeja,CSK,18,10,2,1,180.0,0,29,12,1,14.5
+59,10-May-24,Ahmedabad,Santner,CSK,0,2,0,0,0.0,0,31,12,1,15.5
+59,10-May-24,Ahmedabad,Thakur,CSK,3,4,0,0,75.0,0,25,24,0,6.25
+59,10-May-24,Ahmedabad,Tushar Deshpande,CSK,0,0,0,0,0.0,2,33,24,0,8.25
+59,10-May-24,Ahmedabad,Simarjeet Singh,CSK,0,0,0,0,0.0,0,60,24,0,15.0
+59,10-May-24,Ahmedabad,Dhoni,CSK,26,11,1,3,236.36,0,0,0,0,0.0
+59,10-May-24,Ahmedabad,Sai Sudharsan,GT,103,51,5,8,201.96,0,0,0,1,0.0
+59,10-May-24,Ahmedabad,Gaikwad,CSK,0,3,0,0,0.0,0,0,0,1,0.0
+59,10-May-24,Ahmedabad,Moeen Ali,CSK,56,36,4,4,155.56,0,0,0,1,0.0
+59,10-May-24,Ahmedabad,Rashid Khan,GT,0,0,0,0,0.0,2,38,24,0,9.5
+59,10-May-24,Ahmedabad,Shivam Dube,CSK,21,13,2,1,161.54,0,0,0,1,0.0
+59,10-May-24,Ahmedabad,Ravindra,CSK,1,2,0,0,50.0,0,0,0,1,0.0
+59,10-May-24,Ahmedabad,Warrier,GT,0,0,0,0,0.0,1,28,18,0,9.33
+59,10-May-24,Ahmedabad,Shubman Gill,GT,104,55,9,6,189.09,0,0,0,1,0.0
+59,10-May-24,Ahmedabad,Mitchell,CSK,63,34,7,3,185.29,0,52,24,1,13.0
+59,10-May-24,Ahmedabad,Mohit Sharma,GT,0,0,0,0,0.0,3,31,24,0,7.75
+59,10-May-24,Ahmedabad,Rahane,CSK,1,5,0,0,20.0,0,0,0,1,0.0
+59,10-May-24,Ahmedabad,Umesh Yadav,GT,0,0,0,0,0.0,1,20,18,0,6.67
+60,11-May-24,Kolkata,Russell,KKR,24,14,2,2,171.43,2,34,18,1,11.33
+60,11-May-24,Kolkata,Naman Dhir,MI,17,6,1,2,283.33,0,0,0,1,0.0
+60,11-May-24,Kolkata,Ishan Kishan,MI,40,22,5,2,181.82,0,0,0,1,0.0
+60,11-May-24,Kolkata,Shreyas Iyer,KKR,7,10,1,0,70.0,0,0,0,1,0.0
+60,11-May-24,Kolkata,Tilak Varma,MI,32,17,5,1,188.24,0,0,0,1,0.0
+60,11-May-24,Kolkata,Hardik Pandya,MI,2,4,0,0,50.0,0,32,18,1,10.67
+60,11-May-24,Kolkata,Rinku Singh,KKR,20,12,0,2,166.67,0,0,0,1,0.0
+60,11-May-24,Kolkata,Harshit Rana,KKR,0,0,0,0,0.0,2,34,18,0,11.33
+60,11-May-24,Kolkata,Vaibhav Arora,KKR,0,0,0,0,0.0,0,20,12,0,10.0
+60,11-May-24,Kolkata,N Thushara,MI,0,0,0,0,0.0,1,31,18,0,10.33
+60,11-May-24,Kolkata,Nitish Rana,KKR,33,23,4,1,143.48,0,0,0,1,0.0
+60,11-May-24,Kolkata,Narine,KKR,0,1,0,0,0.0,1,21,18,1,7.0
+60,11-May-24,Kolkata,Nehal Wadhera,MI,3,3,0,0,100.0,0,0,0,1,0.0
+60,11-May-24,Kolkata,Chawla,MI,1,2,0,0,50.0,2,28,18,0,9.33
+60,11-May-24,Kolkata,Venkatesh Iyer,KKR,42,21,6,2,200.0,0,0,0,1,0.0
+60,11-May-24,Kolkata,Ramandeep Singh,KKR,17,8,1,1,212.5,0,0,0,0,0.0
+60,11-May-24,Kolkata,Suryakumar Yadav,MI,11,14,1,0,78.57,0,0,0,1,0.0
+60,11-May-24,Kolkata,Chakaravarthy,KKR,0,0,0,0,0.0,2,17,24,0,4.25
+60,11-May-24,Kolkata,Tim David,MI,0,3,0,0,0.0,0,0,0,1,0.0
+60,11-May-24,Kolkata,Philip Salt,KKR,6,5,0,1,120.0,0,0,0,1,0.0
+60,11-May-24,Kolkata,Starc,KKR,2,2,0,0,100.0,0,11,6,0,11.0
+60,11-May-24,Kolkata,Anshul Kamboj,MI,2,2,0,0,100.0,1,24,18,0,8.0
+60,11-May-24,Kolkata,Rohit,MI,19,23,1,1,82.61,0,0,0,1,0.0
+60,11-May-24,Kolkata,Bumrah,MI,0,0,0,0,0.0,2,39,24,0,9.75
+61,12-May-24,Chennai,Sandeep Sharma,RR,0,0,0,0,0.0,0,30,18,0,10.0
+61,12-May-24,Chennai,Riyan Parag,RR,47,35,1,3,134.29,0,0,0,0,0.0
+61,12-May-24,Chennai,Buttler,RR,21,25,2,0,84.0,0,0,0,1,0.0
+61,12-May-24,Chennai,Ashwin,RR,1,1,0,0,100.0,2,35,24,0,8.75
+61,12-May-24,Chennai,Jadeja,CSK,5,6,0,0,83.33,0,24,24,1,6.0
+61,12-May-24,Chennai,Thakur,CSK,0,0,0,0,0.0,0,32,24,0,8.0
+61,12-May-24,Chennai,Tushar Deshpande,CSK,0,0,0,0,0.0,2,30,24,0,7.5
+61,12-May-24,Chennai,Simarjeet Singh,CSK,0,0,0,0,0.0,3,26,24,0,6.5
+61,12-May-24,Chennai,Boult,RR,0,0,0,0,0.0,0,24,14,0,10.29
+61,12-May-24,Chennai,Gaikwad,CSK,42,41,1,2,102.44,0,0,0,0,0.0
+61,12-May-24,Chennai,Moeen Ali,CSK,10,13,0,0,76.92,0,0,0,1,0.0
+61,12-May-24,Chennai,Sameer Rizvi,CSK,15,8,3,0,187.5,0,0,0,0,0.0
+61,12-May-24,Chennai,Shubham Dubey,RR,0,1,0,0,0.0,0,0,0,1,0.0
+61,12-May-24,Chennai,Avesh Khan,RR,0,0,0,0,0.0,0,12,12,0,6.0
+61,12-May-24,Chennai,Shivam Dube,CSK,18,11,2,1,163.64,0,0,0,1,0.0
+61,12-May-24,Chennai,Ravindra,CSK,27,18,1,2,150.0,0,0,0,1,0.0
+61,12-May-24,Chennai,Dhruv Jurel,RR,28,18,1,2,155.56,0,0,0,1,0.0
+61,12-May-24,Chennai,Jaiswal,RR,24,21,3,1,114.29,0,0,0,1,0.0
+61,12-May-24,Chennai,Theekshana,CSK,0,0,0,0,0.0,0,28,24,0,7.0
+61,12-May-24,Chennai,Mitchell,CSK,22,13,4,0,169.23,0,0,0,1,0.0
+61,12-May-24,Chennai,Samson,RR,15,19,0,0,78.95,0,0,0,1,0.0
+61,12-May-24,Chennai,Nandre Burger,RR,0,0,0,0,0.0,1,21,18,0,7.0
+61,12-May-24,Chennai,Chahal,RR,0,0,0,0,0.0,1,22,24,0,5.5
+62,12-May-24,Bengaluru,Karthik,RCB,0,2,0,0,0.0,0,0,0,1,0.0
+62,12-May-24,Bengaluru,Swapnil Singh,RCB,0,1,0,0,0.0,1,9,6,1,9.0
+62,12-May-24,Bengaluru,Mukesh Kumar,DC,3,7,0,0,42.86,1,23,18,1,7.67
+62,12-May-24,Bengaluru,Yash Dayal,RCB,0,0,0,0,0.0,3,20,19,0,6.32
+62,12-May-24,Bengaluru,Tristan Stubbs,DC,3,4,0,0,75.0,0,0,0,1,0.0
+62,12-May-24,Bengaluru,Ferguson,RCB,0,0,0,0,0.0,2,23,24,0,5.75
+62,12-May-24,Bengaluru,Ishant,DC,0,4,0,0,0.0,1,30,18,0,10.0
+62,12-May-24,Bengaluru,Rajat Patidar,RCB,52,32,3,3,162.5,0,0,0,1,0.0
+62,12-May-24,Bengaluru,Karn Sharma,RCB,6,4,1,0,150.0,0,19,12,1,9.5
+62,12-May-24,Bengaluru,Shai Hope,DC,29,23,4,0,126.09,0,0,0,1,0.0
+62,12-May-24,Bengaluru,Axar,DC,57,39,5,3,146.15,0,24,18,1,8.0
+62,12-May-24,Bengaluru,Lomror,RCB,13,8,0,1,162.5,0,0,0,1,0.0
+62,12-May-24,Bengaluru,Warner,DC,1,2,0,0,50.0,0,0,0,1,0.0
+62,12-May-24,Bengaluru,Khaleel Ahmed,DC,0,0,0,0,0.0,2,31,24,0,7.75
+62,12-May-24,Bengaluru,Will Jacks,RCB,41,29,3,2,141.38,0,16,6,1,16.0
+62,12-May-24,Bengaluru,Green,RCB,32,24,1,2,133.33,1,19,24,0,4.75
+62,12-May-24,Bengaluru,Abishek Porel,DC,2,3,0,0,66.67,0,0,0,1,0.0
+62,12-May-24,Bengaluru,Siraj,RCB,0,0,0,0,0.0,1,33,24,1,8.25
+62,12-May-24,Bengaluru,du Plessis,RCB,6,7,1,0,85.71,0,0,0,1,0.0
+62,12-May-24,Bengaluru,Kohli,RCB,27,13,1,3,207.69,0,0,0,1,0.0
+62,12-May-24,Bengaluru,Fraser-McGurk,DC,21,8,2,2,262.5,0,0,0,1,0.0
+62,12-May-24,Bengaluru,Kushagra,DC,2,3,0,0,66.67,0,0,0,1,0.0
+62,12-May-24,Bengaluru,Kuldeep Yadav,DC,6,10,0,0,60.0,1,52,24,1,13.0
+62,12-May-24,Bengaluru,Rasikh Salam,DC,10,12,1,0,83.33,2,23,18,1,7.67
+64,14-May-24,Delhi,Gulbadin,DC,0,0,0,0,0.0,0,12,6,0,12.0
+64,14-May-24,Delhi,Ayush Badoni,LSG,6,9,0,0,66.67,0,0,0,1,0.0
+64,14-May-24,Delhi,Rasikh Salam,DC,0,0,0,0,0.0,0,30,18,0,10.0
+64,14-May-24,Delhi,Mohsin Khan,LSG,0,0,0,0,0.0,0,29,24,0,7.25
+64,14-May-24,Delhi,Naveen-ul-Haq,LSG,2,4,0,0,50.0,2,51,24,0,12.75
+64,14-May-24,Delhi,Mukesh Kumar,DC,0,0,0,0,0.0,1,33,24,0,8.25
+64,14-May-24,Delhi,Tristan Stubbs,DC,57,25,3,4,228.0,1,4,6,0,4.0
+64,14-May-24,Delhi,Ishant,DC,0,0,0,0,0.0,3,33,24,0,8.25
+64,14-May-24,Delhi,Shai Hope,DC,38,27,3,2,140.74,0,0,0,1,0.0
+64,14-May-24,Delhi,Pooran,LSG,61,27,6,4,225.93,0,0,0,1,0.0
+64,14-May-24,Delhi,Axar,DC,14,10,2,0,140.0,1,20,6,0,20.0
+64,14-May-24,Delhi,Rahul,LSG,5,3,1,0,166.67,0,0,0,1,0.0
+64,14-May-24,Delhi,Arshad Khan,LSG,58,33,3,5,175.76,1,44,18,0,14.67
+64,14-May-24,Delhi,Fraser-McGurk,DC,0,2,0,0,0.0,0,0,0,1,0.0
+64,14-May-24,Delhi,Abishek Porel,DC,58,33,5,4,175.76,0,0,0,1,0.0
+64,14-May-24,Delhi,Stoinis,LSG,5,7,1,0,71.43,0,0,0,1,0.0
+64,14-May-24,Delhi,Kuldeep Yadav,DC,0,0,0,0,0.0,1,33,24,0,8.25
+64,14-May-24,Delhi,Hooda,LSG,0,2,0,0,0.0,0,9,6,1,9.0
+64,14-May-24,Delhi,Yudhvir Singh,LSG,14,7,1,1,200.0,0,28,12,1,14.0
+64,14-May-24,Delhi,Khaleel Ahmed,DC,0,0,0,0,0.0,1,22,12,0,11.0
+64,14-May-24,Delhi,de Kock,LSG,12,8,2,0,150.0,0,0,0,1,0.0
+64,14-May-24,Delhi,Krunal Pandya,LSG,18,18,2,0,100.0,0,20,12,1,10.0
+64,14-May-24,Delhi,Ravi Bishnoi,LSG,2,2,0,0,100.0,1,26,24,1,6.5
+64,14-May-24,Delhi,Pant,DC,33,23,5,0,143.48,0,0,0,1,0.0
+65,15-May-24,Guwahati,Rossouw,PBKS,22,13,5,0,169.23,0,0,0,1,0.0
+65,15-May-24,Guwahati,Harpreet Brar,PBKS,0,0,0,0,0.0,0,10,6,0,10.0
+65,15-May-24,Guwahati,Sandeep Sharma,RR,0,0,0,0,0.0,0,28,24,0,7.0
+65,15-May-24,Guwahati,Riyan Parag,RR,48,34,6,0,141.18,0,0,0,1,0.0
+65,15-May-24,Guwahati,Ferreira,RR,7,8,0,0,87.5,0,0,0,1,0.0
+65,15-May-24,Guwahati,Prabhsimran,PBKS,6,4,1,0,150.0,0,0,0,1,0.0
+65,15-May-24,Guwahati,Shashank Singh,PBKS,0,2,0,0,0.0,0,0,0,1,0.0
+65,15-May-24,Guwahati,Ashwin,RR,28,19,3,1,147.37,0,31,24,1,7.75
+65,15-May-24,Guwahati,Sam Curran,PBKS,63,41,5,3,153.66,2,24,18,0,8.0
+65,15-May-24,Guwahati,Jitesh Sharma,PBKS,22,20,0,2,110.0,0,0,0,1,0.0
+65,15-May-24,Guwahati,Ashutosh Sharma,PBKS,17,11,1,1,154.55,0,0,0,0,0.0
+65,15-May-24,Guwahati,Kohler-Cadmore,RR,18,23,2,1,78.26,0,0,0,1,0.0
+65,15-May-24,Guwahati,Boult,RR,12,9,2,0,133.33,1,27,18,1,9.0
+65,15-May-24,Guwahati,Rahul Chahar,PBKS,0,0,0,0,0.0,2,26,24,0,6.5
+65,15-May-24,Guwahati,Powell,RR,4,5,1,0,80.0,0,0,0,1,0.0
+65,15-May-24,Guwahati,Avesh Khan,RR,3,2,0,0,150.0,2,28,23,0,7.3
+65,15-May-24,Guwahati,Arshdeep Singh,PBKS,0,0,0,0,0.0,1,31,24,0,7.75
+65,15-May-24,Guwahati,Bairstow,PBKS,14,22,1,0,63.64,0,0,0,1,0.0
+65,15-May-24,Guwahati,Jaiswal,RR,4,4,1,0,100.0,0,0,0,1,0.0
+65,15-May-24,Guwahati,Dhruv Jurel,RR,0,1,0,0,0.0,0,0,0,1,0.0
+65,15-May-24,Guwahati,Harshal Patel,PBKS,0,0,0,0,0.0,2,28,24,0,7.0
+65,15-May-24,Guwahati,Nathan Ellis,PBKS,0,0,0,0,0.0,1,24,24,0,6.0
+65,15-May-24,Guwahati,Samson,RR,18,15,3,0,120.0,0,0,0,1,0.0
+65,15-May-24,Guwahati,Chahal,RR,0,0,0,0,0.0,2,31,24,0,7.75
+67,17-May-24,Mumbai,Naman Dhir,MI,62,27,4,5,229.63,0,17,4,0,25.5
+67,17-May-24,Mumbai,Hardik Pandya,MI,16,13,1,1,123.08,0,27,12,1,13.5
+67,17-May-24,Mumbai,Ishan Kishan,MI,14,15,1,0,93.33,0,0,0,1,0.0
+67,17-May-24,Mumbai,N Thushara,MI,0,0,0,0,0.0,3,27,24,0,6.75
+67,17-May-24,Mumbai,Ayush Badoni,LSG,22,10,1,2,220.0,0,0,0,0,0.0
+67,17-May-24,Mumbai,Mohsin Khan,LSG,0,0,0,0,0.0,1,45,24,0,11.25
+67,17-May-24,Mumbai,Padikkal,LSG,0,1,0,0,0.0,0,0,0,1,0.0
+67,17-May-24,Mumbai,Naveen-ul-Haq,LSG,0,0,0,0,0.0,2,50,24,0,12.5
+67,17-May-24,Mumbai,Arjun Tendulkar,MI,0,0,0,0,0.0,0,22,14,0,9.43
+67,17-May-24,Mumbai,Nehal Wadhera,MI,1,3,0,0,33.33,0,13,12,1,6.5
+67,17-May-24,Mumbai,Chawla,MI,0,0,0,0,0.0,3,29,24,0,7.25
+67,17-May-24,Mumbai,Matt Henry,LSG,0,0,0,0,0.0,0,24,12,0,12.0
+67,17-May-24,Mumbai,Suryakumar Yadav,MI,0,3,0,0,0.0,0,0,0,1,0.0
+67,17-May-24,Mumbai,Brevis,MI,23,20,1,2,115.0,0,0,0,1,0.0
+67,17-May-24,Mumbai,Pooran,LSG,75,29,5,8,258.62,0,0,0,1,0.0
+67,17-May-24,Mumbai,Rahul,LSG,55,41,3,3,134.15,0,0,0,1,0.0
+67,17-May-24,Mumbai,Shepherd,MI,1,1,0,0,100.0,0,30,12,0,15.0
+67,17-May-24,Mumbai,Arshad Khan,LSG,0,1,0,0,0.0,0,11,12,1,5.5
+67,17-May-24,Mumbai,Stoinis,LSG,28,22,5,0,127.27,0,0,0,1,0.0
+67,17-May-24,Mumbai,Hooda,LSG,11,9,1,0,122.22,0,0,0,1,0.0
+67,17-May-24,Mumbai,Anshul Kamboj,MI,0,0,0,0,0.0,0,46,18,0,15.33
+67,17-May-24,Mumbai,Rohit,MI,68,38,10,3,178.95,0,0,0,1,0.0
+67,17-May-24,Mumbai,Krunal Pandya,LSG,12,7,1,1,171.43,1,29,24,0,7.25
+67,17-May-24,Mumbai,Ravi Bishnoi,LSG,0,0,0,0,0.0,2,37,24,0,9.25
+68,18-May-24,Bengaluru,Karthik,RCB,14,6,1,1,233.33,0,0,0,1,0.0
+68,18-May-24,Bengaluru,Yash Dayal,RCB,0,0,0,0,0.0,2,42,24,0,10.5
+68,18-May-24,Bengaluru,Swapnil Singh,RCB,0,0,0,0,0.0,0,13,12,0,6.5
+68,18-May-24,Bengaluru,Jadeja,CSK,42,22,3,3,190.91,0,40,18,0,13.33
+68,18-May-24,Bengaluru,Santner,CSK,3,4,0,0,75.0,1,23,24,1,5.75
+68,18-May-24,Bengaluru,Thakur,CSK,1,2,0,0,50.0,2,61,24,0,15.25
+68,18-May-24,Bengaluru,Tushar Deshpande,CSK,0,0,0,0,0.0,1,49,24,0,12.25
+68,18-May-24,Bengaluru,Simarjeet Singh,CSK,0,0,0,0,0.0,0,18,6,0,18.0
+68,18-May-24,Bengaluru,Ferguson,RCB,0,0,0,0,0.0,1,39,18,0,13.0
+68,18-May-24,Bengaluru,Dhoni,CSK,25,12,3,1,208.33,0,0,0,1,0.0
+68,18-May-24,Bengaluru,Rajat Patidar,RCB,41,23,2,4,178.26,0,0,0,1,0.0
+68,18-May-24,Bengaluru,Karn Sharma,RCB,0,0,0,0,0.0,0,14,6,0,14.0
+68,18-May-24,Bengaluru,Gaikwad,CSK,0,1,0,0,0.0,0,0,0,1,0.0
+68,18-May-24,Bengaluru,Shivam Dube,CSK,7,15,0,0,46.67,0,0,0,1,0.0
+68,18-May-24,Bengaluru,Ravindra,CSK,61,36,5,3,169.44,0,0,0,1,0.0
+68,18-May-24,Bengaluru,Lomror,RCB,0,1,0,0,0.0,0,0,0,0,0.0
+68,18-May-24,Bengaluru,Green,RCB,38,17,3,3,223.53,1,18,12,0,9.0
+68,18-May-24,Bengaluru,Maxwell,RCB,16,5,2,1,320.0,1,25,24,1,6.25
+68,18-May-24,Bengaluru,Theekshana,CSK,0,0,0,0,0.0,0,25,24,0,6.25
+68,18-May-24,Bengaluru,Siraj,RCB,0,0,0,0,0.0,1,35,24,0,8.75
+68,18-May-24,Bengaluru,du Plessis,RCB,54,39,3,3,138.46,0,0,0,1,0.0
+68,18-May-24,Bengaluru,Kohli,RCB,47,29,3,4,162.07,0,0,0,1,0.0
+68,18-May-24,Bengaluru,Mitchell,CSK,4,6,0,0,66.67,0,0,0,1,0.0
+68,18-May-24,Bengaluru,Rahane,CSK,33,22,3,1,150.0,0,0,0,1,0.0
+69,19-May-24,Hyderabad,Rossouw,PBKS,49,23,3,4,213.04,0,0,0,1,0.0
+69,19-May-24,Hyderabad,Harpreet Brar,PBKS,0,0,0,0,0.0,1,36,18,0,12.0
+69,19-May-24,Hyderabad,Shashank Singh,PBKS,2,4,0,0,50.0,1,5,6,1,5.0
+69,19-May-24,Hyderabad,Jitesh Sharma,PBKS,32,15,2,2,213.33,0,0,0,0,0.0
+69,19-May-24,Hyderabad,Prabhsimran,PBKS,71,45,7,4,157.78,0,0,0,1,0.0
+69,19-May-24,Hyderabad,Ashutosh Sharma,PBKS,2,3,0,0,66.67,0,0,0,1,0.0
+69,19-May-24,Hyderabad,Shivam Singh,PBKS,2,3,0,0,66.67,0,0,0,0,0.0
+69,19-May-24,Hyderabad,Nitish Reddy,SRH,37,25,1,3,148.0,0,54,18,1,18.0
+69,19-May-24,Hyderabad,Sanvir Singh,SRH,6,4,1,0,150.0,0,0,0,0,0.0
+69,19-May-24,Hyderabad,Bhuvneshwar,SRH,0,0,0,0,0.0,0,36,24,0,9.0
+69,19-May-24,Hyderabad,Shahbaz Ahmed,SRH,3,6,0,0,50.0,0,13,6,1,13.0
+69,19-May-24,Hyderabad,T Natarajan,SRH,0,0,0,0,0.0,2,33,24,0,8.25
+69,19-May-24,Hyderabad,Rahul Chahar,PBKS,0,0,0,0,0.0,0,43,24,0,10.75
+69,19-May-24,Hyderabad,Klaasen,SRH,42,26,3,2,161.54,0,0,0,1,0.0
+69,19-May-24,Hyderabad,Rishi Dhawan,PBKS,0,0,0,0,0.0,0,35,18,0,11.67
+69,19-May-24,Hyderabad,Cummins,SRH,0,0,0,0,0.0,1,36,24,0,9.0
+69,19-May-24,Hyderabad,Arshdeep Singh,PBKS,0,0,0,0,0.0,2,37,24,0,9.25
+69,19-May-24,Hyderabad,Head,SRH,0,1,0,0,0.0,0,0,0,1,0.0
+69,19-May-24,Hyderabad,Atharva Taide,PBKS,46,27,5,2,170.37,0,4,1,1,24.0
+69,19-May-24,Hyderabad,Tripathi,SRH,33,17,4,2,194.12,0,0,0,1,0.0
+69,19-May-24,Hyderabad,V Viyaskanth,SRH,0,0,0,0,0.0,1,37,24,0,9.25
+69,19-May-24,Hyderabad,Harshal Patel,PBKS,0,0,0,0,0.0,2,49,24,0,12.25
+69,19-May-24,Hyderabad,Abhishek Sharma,SRH,66,28,5,6,235.71,0,0,0,1,0.0
+69,19-May-24,Hyderabad,Abdul Samad,SRH,11,8,0,1,137.5,0,0,0,0,0.0
+71,21-May-24,Ahmedabad,Russell,KKR,0,0,0,0,0.0,1,15,9,0,10.0
+71,21-May-24,Ahmedabad,Shreyas Iyer,KKR,58,24,5,4,241.67,0,0,0,0,0.0
+71,21-May-24,Ahmedabad,Harshit Rana,KKR,0,0,0,0,0.0,1,27,24,0,6.75
+71,21-May-24,Ahmedabad,Abhishek Sharma,SRH,3,4,0,0,75.0,0,0,0,1,0.0
+71,21-May-24,Ahmedabad,Vaibhav Arora,KKR,0,0,0,0,0.0,1,17,12,0,8.5
+71,21-May-24,Ahmedabad,Narine,KKR,21,16,4,0,131.25,1,40,24,1,10.0
+71,21-May-24,Ahmedabad,Nitish Reddy,SRH,9,10,1,0,90.0,0,13,6,1,13.0
+71,21-May-24,Ahmedabad,Sanvir Singh,SRH,0,1,0,0,0.0,0,0,0,1,0.0
+71,21-May-24,Ahmedabad,Bhuvneshwar,SRH,0,4,0,0,0.0,0,28,18,1,9.33
+71,21-May-24,Ahmedabad,Shahbaz Ahmed,SRH,0,1,0,0,0.0,0,0,0,1,0.0
+71,21-May-24,Ahmedabad,T Natarajan,SRH,0,0,0,0,0.0,1,22,18,0,7.33
+71,21-May-24,Ahmedabad,Venkatesh Iyer,KKR,51,28,5,4,182.14,0,0,0,0,0.0
+71,21-May-24,Ahmedabad,Klaasen,SRH,32,20,3,1,160.0,0,0,0,1,0.0
+71,21-May-24,Ahmedabad,Chakaravarthy,KKR,0,0,0,0,0.0,2,26,24,0,6.5
+71,21-May-24,Ahmedabad,Cummins,SRH,30,24,2,2,125.0,1,38,18,1,12.67
+71,21-May-24,Ahmedabad,Head,SRH,0,2,0,0,0.0,0,32,10,1,19.2
+71,21-May-24,Ahmedabad,Tripathi,SRH,55,34,7,1,161.76,0,0,0,1,0.0
+71,21-May-24,Ahmedabad,V Viyaskanth,SRH,7,5,0,0,140.0,0,22,12,0,11.0
+71,21-May-24,Ahmedabad,Starc,KKR,0,0,0,0,0.0,3,34,24,0,8.5
+71,21-May-24,Ahmedabad,Gurbaz,KKR,23,14,2,2,164.29,0,0,0,1,0.0
+71,21-May-24,Ahmedabad,Abdul Samad,SRH,16,12,0,2,133.33,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Sandeep Sharma,RR,0,0,0,0,0.0,1,48,24,0,12.0
+72,22-May-24,Ahmedabad,Karthik,RCB,11,13,1,0,84.62,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Riyan Parag,RR,36,26,2,2,138.46,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Ashwin,RR,0,0,0,0,0.0,2,19,24,0,4.75
+72,22-May-24,Ahmedabad,Swapnil Singh,RCB,9,4,0,1,225.0,0,19,12,0,9.5
+72,22-May-24,Ahmedabad,Yash Dayal,RCB,0,0,0,0,0.0,0,37,18,0,12.33
+72,22-May-24,Ahmedabad,Kohler-Cadmore,RR,20,15,4,0,133.33,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Boult,RR,0,0,0,0,0.0,1,16,24,0,4.0
+72,22-May-24,Ahmedabad,Ferguson,RCB,0,0,0,0,0.0,1,37,24,0,9.25
+72,22-May-24,Ahmedabad,Powell,RR,16,8,2,1,200.0,0,0,0,0,0.0
+72,22-May-24,Ahmedabad,Rajat Patidar,RCB,34,22,2,2,154.55,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Karn Sharma,RCB,5,4,1,0,125.0,1,19,12,1,9.5
+72,22-May-24,Ahmedabad,Avesh Khan,RR,0,0,0,0,0.0,3,44,24,0,11.0
+72,22-May-24,Ahmedabad,Lomror,RCB,32,17,2,2,188.24,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Jaiswal,RR,45,30,8,0,150.0,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Dhruv Jurel,RR,8,8,1,0,100.0,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Green,RCB,27,21,2,1,128.57,1,28,24,1,7.0
+72,22-May-24,Ahmedabad,Maxwell,RCB,0,1,0,0,0.0,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Siraj,RCB,0,0,0,0,0.0,2,32,24,0,8.0
+72,22-May-24,Ahmedabad,du Plessis,RCB,17,14,2,1,121.43,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Kohli,RCB,33,24,3,1,137.5,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Samson,RR,17,13,0,1,130.77,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Hetmyer,RR,26,14,3,1,185.71,0,0,0,1,0.0
+72,22-May-24,Ahmedabad,Chahal,RR,0,0,0,0,0.0,1,43,24,0,10.75
+73,24-May-24,Chennai,Unadkat,SRH,5,2,1,0,250.0,0,5,6,1,5.0
+73,24-May-24,Chennai,Sandeep Sharma,RR,0,0,0,0,0.0,2,25,24,0,6.25
+73,24-May-24,Chennai,Riyan Parag,RR,6,10,0,0,60.0,0,0,0,1,0.0
+73,24-May-24,Chennai,Ashwin,RR,0,3,0,0,0.0,0,43,24,1,10.75
+73,24-May-24,Chennai,Nitish Reddy,SRH,5,10,0,0,50.0,0,0,0,1,0.0
+73,24-May-24,Chennai,Bhuvneshwar,SRH,0,0,0,0,0.0,0,33,18,0,11.0
+73,24-May-24,Chennai,Kohler-Cadmore,RR,10,16,1,0,62.5,0,0,0,1,0.0
+73,24-May-24,Chennai,Shahbaz Ahmed,SRH,18,18,0,1,100.0,3,23,24,1,5.75
+73,24-May-24,Chennai,T Natarajan,SRH,0,0,0,0,0.0,1,13,18,0,4.33
+73,24-May-24,Chennai,Boult,RR,0,3,0,0,0.0,3,45,24,0,11.25
+73,24-May-24,Chennai,Powell,RR,6,12,0,0,50.0,0,0,0,1,0.0
+73,24-May-24,Chennai,Klaasen,SRH,50,34,0,4,147.06,0,0,0,1,0.0
+73,24-May-24,Chennai,Avesh Khan,RR,0,0,0,0,0.0,3,27,24,0,6.75
+73,24-May-24,Chennai,Cummins,SRH,5,5,1,0,100.0,1,30,24,0,7.5
+73,24-May-24,Chennai,Jaiswal,RR,42,21,4,3,200.0,0,0,0,1,0.0
+73,24-May-24,Chennai,Dhruv Jurel,RR,56,35,7,2,160.0,0,0,0,0,0.0
+73,24-May-24,Chennai,Head,SRH,34,28,3,1,121.43,0,0,0,1,0.0
+73,24-May-24,Chennai,Markram,SRH,1,2,0,0,50.0,0,10,6,1,10.0
+73,24-May-24,Chennai,Tripathi,SRH,37,15,5,2,246.67,0,0,0,1,0.0
+73,24-May-24,Chennai,Samson,RR,10,11,1,0,90.91,0,0,0,1,0.0
+73,24-May-24,Chennai,Abhishek Sharma,SRH,12,5,1,1,240.0,2,24,24,1,6.0
+73,24-May-24,Chennai,Hetmyer,RR,4,9,0,0,44.44,0,0,0,1,0.0
+73,24-May-24,Chennai,Chahal,RR,0,0,0,0,0.0,0,34,24,0,8.5
+73,24-May-24,Chennai,Abdul Samad,SRH,0,1,0,0,0.0,0,0,0,1,0.0
+74,26-May-24,Chennai,Russell,KKR,0,0,0,0,0.0,3,19,15,0,7.6
+74,26-May-24,Chennai,Shreyas Iyer,KKR,6,3,1,0,200.0,0,0,0,0,0.0
+74,26-May-24,Chennai,Harshit Rana,KKR,0,0,0,0,0.0,2,24,24,0,6.0
+74,26-May-24,Chennai,Abhishek Sharma,SRH,2,5,0,0,40.0,0,0,0,1,0.0
+74,26-May-24,Chennai,Unadkat,SRH,4,11,0,0,36.36,0,9,6,1,9.0
+74,26-May-24,Chennai,Vaibhav Arora,KKR,0,0,0,0,0.0,1,23,18,0,7.67
+74,26-May-24,Chennai,Narine,KKR,6,2,0,1,300.0,1,16,24,1,4.0
+74,26-May-24,Chennai,Nitish Reddy,SRH,13,10,1,1,130.0,0,0,0,1,0.0
+74,26-May-24,Chennai,Bhuvneshwar,SRH,0,1,0,0,0.0,0,25,12,0,12.5
+74,26-May-24,Chennai,Shahbaz Ahmed,SRH,8,7,0,1,114.29,1,22,15,1,8.8
+74,26-May-24,Chennai,T Natarajan,SRH,0,0,0,0,0.0,0,29,12,0,14.5
+74,26-May-24,Chennai,Venkatesh Iyer,KKR,52,26,4,3,200.0,0,0,0,0,0.0
+74,26-May-24,Chennai,Klaasen,SRH,16,17,1,0,94.12,0,0,0,1,0.0
+74,26-May-24,Chennai,Chakaravarthy,KKR,0,0,0,0,0.0,1,9,12,0,4.5
+74,26-May-24,Chennai,Cummins,SRH,24,19,2,1,126.32,1,18,12,1,9.0
+74,26-May-24,Chennai,Head,SRH,0,1,0,0,0.0,0,0,0,1,0.0
+74,26-May-24,Chennai,Markram,SRH,20,23,3,0,86.96,0,5,6,1,5.0
+74,26-May-24,Chennai,Tripathi,SRH,9,13,1,0,69.23,0,0,0,1,0.0
+74,26-May-24,Chennai,Starc,KKR,0,0,0,0,0.0,2,14,18,0,4.67
+74,26-May-24,Chennai,Gurbaz,KKR,39,32,5,2,121.88,0,0,0,1,0.0
+74,26-May-24,Chennai,Abdul Samad,SRH,4,4,0,0,100.0,0,0,0,1,0.0
